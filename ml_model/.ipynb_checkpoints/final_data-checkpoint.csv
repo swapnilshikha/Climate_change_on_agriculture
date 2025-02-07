@@ -1,0 +1,1026 @@
+Year,Country,Region,Crop_Type,Average_Temperature_C,Total_Precipitation_mm,CO2_Emissions_MT,Crop_Yield_MT_per_HA,Extreme_Weather_Events,Irrigation_Access_%,Pesticide_Use_KG_per_HA,Fertilizer_Use_KG_per_HA,Soil_Health_Index,Adaptation_Strategies,Economic_Impact_Million_USD
+2001,India,West Bengal,Corn,1.55,447.06,15.22,1.737,8,14.54,10.08,14.78,83.25,Water Management,808.13
+1998,India,Tamil Nadu,Sugarcane,2.19,1627.48,11.81,1.08,9,95.75,44.35,88.08,49.61,Crop Rotation,401.72
+2012,India,Punjab,Wheat,32.08,1233.1,6.1,2.99,1,45.87,10.09,32.54,42.31,Water Management,761.89
+2016,India,West Bengal,Soybeans,14,1240.49,29.18,4.032,9,29.32,37.8,99.09,46.32,No Adaptation,1745.39
+2007,India,West Bengal,Vegetables,27.45,784.04,5.55,2.6,6,89.47,28.15,86.71,33.12,Water Management,308.77
+2016,India,Maharashtra,Cotton,-2.28,2300.89,15.29,1.944,7,28.39,1.51,83.17,63.31,Organic Farming,725.01
+2013,India,Punjab,Cotton,9.95,1210.23,1.43,2.88,4,45.61,30.89,34.09,69.29,Crop Rotation,686.14
+1998,India,Punjab,Sugarcane,16.81,689.7,8.01,3.22,10,40.5,29.23,5.94,97.76,No Adaptation,1036.85
+2002,India,Punjab,Corn,9.97,2310.19,23.27,1.053,2,19.87,37.64,5.83,97.48,Water Management,285.96
+1998,India,Punjab,Soybeans,12.14,1507.9,1.55,4.79,0,97.69,8.28,56.73,89.16,Organic Farming,1163.98
+2020,India,West Bengal,Sugarcane,18.74,309.92,20.51,3.042,9,76.58,48.2,73.87,55.53,No Adaptation,1228.61
+1992,India,Tamil Nadu,Cotton,-0.23,1083.84,21.12,2.673,9,81.21,23.53,13,42.85,No Adaptation,652.9
+2007,India,Tamil Nadu,Vegetables,26.58,1780.37,5.03,2.69,2,52.49,17.98,15.77,73,Water Management,289.11
+1997,India,West Bengal,Rice,22.27,2731.72,23.5,1.485,6,22.85,0.2,33.03,77.25,Organic Farming,668.63
+2023,India,Maharashtra,Barley,22.84,1773.19,9.19,1.27,4,52.43,25.92,10.16,86.92,Water Management,518.85
+1995,India,Punjab,Soybeans,20.86,1283.71,24.56,1.224,8,82.82,10,29.4,46,Organic Farming,479.45
+2015,India,Punjab,Cotton,8.81,205.46,12.69,0.657,5,97.49,45.83,91,36.18,Crop Rotation,269.11
+2017,India,Tamil Nadu,Rice,25.13,917.26,16.93,1.566,0,76.86,41.65,5.9,33.24,Crop Rotation,354.12
+2023,India,Punjab,Barley,29.49,935.71,20.08,2.655,3,24.55,0.67,72.4,98.17,Drought-resistant Crops,1185.57
+1991,India,Maharashtra,Wheat,10.87,333.73,23.89,1.872,0,81.17,43.3,72.31,91.02,No Adaptation,847.03
+2004,India,Punjab,Vegetables,25.96,1160.56,16.49,3.321,3,36.44,39.72,99.88,77.14,Drought-resistant Crops,1499.9
+2010,India,Tamil Nadu,Wheat,21.77,210.3,9.99,0.801,9,19.24,25.13,71.99,51.83,Water Management,100.84
+2019,India,West Bengal,Fruits,-2.7,2741.68,7.91,1.74,10,35.05,45.26,42.16,93.52,Organic Farming,305.28
+1992,India,West Bengal,Wheat,4,2553.17,3.48,2.29,10,67.29,47.98,25.83,62.31,Water Management,833.4
+2007,India,West Bengal,Rice,1.41,1433.18,19.37,1.782,5,79.11,14.82,89.32,59.11,Organic Farming,236.32
+1995,India,West Bengal,Cotton,16.39,1428.32,24.65,2.385,6,98.06,26.21,97.73,59.59,Water Management,689.41
+1996,India,Tamil Nadu,Wheat,19.32,1896.87,4.49,4.77,9,89.2,24.85,43.11,69.6,No Adaptation,716.72
+2009,India,West Bengal,Cotton,19.21,1773.68,28.44,3.375,2,75.15,38.67,91.81,36.04,Organic Farming,1121.3
+1992,India,Punjab,Cotton,17.32,2277.07,18.06,1.818,3,77.61,13.12,78.69,31.88,Crop Rotation,224.71
+2007,India,Tamil Nadu,Coffee,3.88,2415.63,7.79,2.28,9,93.68,17.59,78,93.68,Crop Rotation,250.66
+1995,India,Maharashtra,Vegetables,3.46,1522.13,24.66,0.774,2,73.73,20.32,29.33,59.36,Drought-resistant Crops,312.84
+2006,India,Punjab,Fruits,17.08,605.97,27.94,4.401,8,92.18,6.59,17,89.03,Crop Rotation,1561.84
+1991,India,Punjab,Soybeans,8.42,522.7,28.8,0.531,10,70.42,38.56,98.3,54.64,Water Management,111.06
+2022,India,Maharashtra,Cotton,0.14,1832.14,17.07,0.792,5,95.47,23.58,46.79,67.01,Organic Farming,180.11
+2013,India,Punjab,Fruits,0.2,2427.19,24.1,2.43,7,66.3,25.33,4.36,65.08,Drought-resistant Crops,977.58
+2013,India,Punjab,Cotton,15.58,2690.21,24.61,2.844,1,31.09,44.17,51.15,95.52,Crop Rotation,943.84
+2010,India,West Bengal,Rice,20.11,1085.87,20.34,1.116,2,26.81,27.92,44.23,76.48,Crop Rotation,236.3
+2012,India,Tamil Nadu,Corn,30.9,2100.38,18.18,1.404,2,24.05,11.57,46.22,36.56,Water Management,682.51
+1995,India,Tamil Nadu,Rice,22.36,1564.4,28.18,1.458,0,41.16,22.85,82.62,45.38,Crop Rotation,183.47
+2002,India,Punjab,Wheat,-4.81,1915.14,28.29,0.747,5,44.2,45.71,27.97,75.12,Drought-resistant Crops,294.46
+2006,India,West Bengal,Vegetables,-2.44,2621.81,8.02,0.88,2,83.44,3.22,27.25,88.54,Water Management,175.61
+1996,India,Punjab,Wheat,2.63,2385.17,12.17,2.79,0,59.1,21,49.47,93.67,No Adaptation,491.78
+1995,India,West Bengal,Cotton,27.09,426.95,6.35,2.232,1,25.72,21.66,40.28,62.58,No Adaptation,580.73
+1997,India,Tamil Nadu,Vegetables,31.14,683.74,10.47,2.34,9,55.93,18.21,21.22,66.37,No Adaptation,987.69
+2004,India,Maharashtra,Corn,14.23,1162.73,23.86,1.998,5,95.8,18.93,50.44,54.24,Crop Rotation,612.8
+2008,India,Punjab,Cotton,-2.7,656.92,10.02,1.28,5,81.7,30.46,11.56,46.53,Organic Farming,439.88
+1990,India,West Bengal,Corn,5.99,316.05,15.71,0.477,9,26.04,4.37,50.81,89.27,Drought-resistant Crops,113.13
+1996,India,Punjab,Wheat,25.09,1660.3,7.36,2.61,0,29.66,14.36,93.3,84.26,Crop Rotation,389.19
+1995,India,Punjab,Vegetables,-1.94,2723.03,4.38,1.89,0,35.1,40.73,38.86,64.8,Crop Rotation,347.14
+2016,India,Tamil Nadu,Sugarcane,18.88,1640.89,7.15,2.82,2,27.54,25.22,98.39,54.9,Water Management,862.5
+2024,India,Maharashtra,Vegetables,27.37,674.2,27.44,1.242,1,44.8,45.99,13.61,91.13,No Adaptation,344.39
+2015,India,Punjab,Cotton,27.63,710.63,12.41,1.64,2,30.73,44.94,16.23,46.35,Crop Rotation,201.45
+2013,India,Maharashtra,Rice,5.72,754.81,17.55,0.846,8,87.27,32.72,70,36.54,Drought-resistant Crops,305.52
+2009,India,West Bengal,Sugarcane,33.14,1537.49,3.82,2.11,0,50.19,36.79,11.6,59.46,Crop Rotation,234.33
+2006,India,Tamil Nadu,Corn,13.31,2587.97,29.02,3.6,4,88.21,10.52,14.86,92.31,Water Management,1447.01
+2018,India,Maharashtra,Wheat,16.3,1650.58,9.34,2.04,8,27.73,21.9,7.36,51.96,Crop Rotation,615.06
+2017,India,Tamil Nadu,Sugarcane,13.98,2979.46,25.02,4.203,7,84.27,5.39,92.35,52.04,Drought-resistant Crops,1048.93
+2017,India,Tamil Nadu,Coffee,22.82,2787.83,26.32,2.007,5,62.73,46.3,23.67,39.59,Organic Farming,699.14
+1993,India,Punjab,Barley,-1.8,2358.94,28.05,0.639,1,66.39,0.16,20.21,44.05,Crop Rotation,169.57
+2016,India,Tamil Nadu,Fruits,8.71,1845.35,13.26,2.8,1,22.68,45.76,35.35,65.37,Crop Rotation,1190.86
+2021,India,Punjab,Soybeans,31.17,1341.76,19.72,1.692,5,41.11,5.79,46.03,58.02,No Adaptation,433.78
+1999,India,Punjab,Soybeans,10.42,2145.62,26.85,2.619,0,77.69,34.25,26.53,89,No Adaptation,1086.44
+2000,India,West Bengal,Fruits,12.97,1252.34,27.37,2.115,3,34.21,2.75,83.94,77.15,Organic Farming,548.09
+2018,India,Maharashtra,Corn,3.23,2842.93,29.73,1.764,2,69.37,37.1,56.21,74.7,Crop Rotation,819.96
+2006,India,Tamil Nadu,Soybeans,11.03,2889.34,17.14,3.078,4,85.63,49.48,32.42,90.95,Crop Rotation,481.65
+2022,India,West Bengal,Corn,17,2750.17,22.17,4.077,3,32.99,23.87,99.29,81.93,Drought-resistant Crops,1814.34
+2005,India,Maharashtra,Vegetables,11.82,2342.66,1.25,3.71,3,76.99,14.38,36.55,59.6,Drought-resistant Crops,1471.92
+2017,India,West Bengal,Soybeans,12.8,499.46,8.71,3.78,7,50.27,22.1,95.71,74.17,Organic Farming,1416.33
+2016,India,West Bengal,Soybeans,-0.36,1822.89,9.58,1.17,1,33.13,29.29,41.79,97.43,Crop Rotation,362.63
+2004,India,Tamil Nadu,Rice,0.54,2879.81,11.18,2.58,9,84.78,3.67,12.69,40.07,No Adaptation,978.31
+2022,India,Punjab,Corn,13.67,407.37,26.85,1.98,4,97.35,44.9,38.66,93.27,Water Management,656.29
+2010,India,Maharashtra,Fruits,9.85,1763.15,15.63,1.44,9,93.84,18.57,33.86,57.78,Water Management,717.87
+2003,India,West Bengal,Corn,9.66,2906.87,12.97,0.79,4,28.07,16.33,89.63,56.11,Drought-resistant Crops,238.2
+2019,India,Maharashtra,Coffee,-2.58,2624.78,19.49,1.53,0,84.46,29.82,98.43,34.13,No Adaptation,604.36
+2011,India,Maharashtra,Fruits,29.38,1633.33,10.77,2.17,9,87.76,27.63,41.95,50.01,Crop Rotation,1067.65
+1993,India,West Bengal,Cotton,31.75,704.58,0.7,3.71,9,42.9,14.93,93.03,74.17,Crop Rotation,835.43
+1993,India,Tamil Nadu,Vegetables,29.47,1893.75,10.3,2.43,0,49.14,5.54,12.88,55.63,Crop Rotation,384.61
+2004,India,Tamil Nadu,Barley,15.72,2215.74,17.1,4.482,2,93.62,3.82,5.3,73.16,Organic Farming,1948.16
+1992,India,Tamil Nadu,Vegetables,31.34,1216.44,14.59,3.7,7,23.54,44.25,98.45,49.87,Crop Rotation,1826.09
+2009,India,Maharashtra,Wheat,30.92,1766.16,17.82,2.628,6,71.49,16.98,83.03,82.96,Crop Rotation,519.88
+2009,India,Tamil Nadu,Fruits,4.16,396.62,16.92,2.601,0,51.04,1.2,2.83,31.35,Organic Farming,882.58
+2011,India,Punjab,Fruits,-2.07,2773.57,24.5,0.81,3,16.39,25.62,68.25,39.93,Organic Farming,363.25
+2017,India,Punjab,Wheat,32.71,1706.38,29.98,1.062,0,91.63,11.04,50.08,44.08,Organic Farming,405.8
+2007,India,Punjab,Wheat,12.19,2175.35,25.65,3.339,7,78.06,33.02,53.58,58.35,No Adaptation,1050.54
+1991,India,West Bengal,Corn,18.53,311.6,13.7,2.97,5,27.79,6.68,10.54,48.81,No Adaptation,876.13
+2022,India,Punjab,Sugarcane,-0.35,2252.28,12.98,1.67,4,83.59,20.56,49.85,51.74,Organic Farming,777.35
+1997,India,West Bengal,Rice,32.79,2368.23,6.74,2.13,2,98.77,45.56,64.49,91.89,No Adaptation,607.33
+2006,India,West Bengal,Soybeans,11.63,2479.32,20.77,1.395,9,39.23,33.87,64.9,53.95,Water Management,513.4
+1997,India,Tamil Nadu,Barley,-4.87,1793.98,15.81,2.448,0,39.28,10.33,16.25,95.89,Organic Farming,935.27
+2008,India,Maharashtra,Wheat,16.73,1636.31,25.57,1.521,10,79.84,40.64,3.81,66.51,Crop Rotation,530.11
+2012,India,West Bengal,Barley,34.77,1902.23,5.3,2.98,1,93.9,19.87,94.08,44.96,Drought-resistant Crops,777.28
+2021,India,Maharashtra,Cotton,18.45,2368.61,9.82,1.92,1,63.18,10.2,19.74,64.4,Crop Rotation,364.87
+2014,India,Punjab,Cotton,34.36,2943.43,3.56,2.88,1,63.29,32.88,81.24,35.83,Drought-resistant Crops,1414.75
+1992,India,Tamil Nadu,Barley,34.69,1613.03,8.39,1.47,7,39.88,8.24,89.27,91.17,Drought-resistant Crops,575.23
+1992,India,Tamil Nadu,Cotton,30.82,503.05,23.24,2.574,4,29.69,6.61,54.41,84.86,Drought-resistant Crops,306.95
+2009,India,Punjab,Wheat,29.22,2312.05,24.52,3.276,7,31.39,44.65,8.99,56.49,Drought-resistant Crops,1295.26
+2009,India,Punjab,Vegetables,31.22,228.24,6.03,2.628,5,94.77,12.78,1.04,78.11,Crop Rotation,879.72
+2022,India,Punjab,Soybeans,7.88,2332.34,22.93,1.35,3,78.32,40.57,88.54,98.75,Crop Rotation,636.78
+1999,India,West Bengal,Sugarcane,11.28,2443.86,21.82,1.746,10,40.14,0.63,24.06,33.59,Organic Farming,607.71
+2009,India,Punjab,Barley,12.11,796.18,26.5,3.636,6,20.2,16.13,11.57,80.24,Organic Farming,1093.59
+2005,India,Tamil Nadu,Vegetables,22.22,1142.4,11.93,3.08,3,78.47,4.99,51.16,45.04,Drought-resistant Crops,1491.69
+2001,India,Maharashtra,Corn,5.12,740.07,23.74,1.485,6,89.81,5.51,84.65,88.11,Organic Farming,444.01
+2010,India,Maharashtra,Vegetables,2.42,2339.26,9.06,1.36,6,35.56,25.4,72.7,65.45,No Adaptation,382.27
+2023,India,West Bengal,Fruits,-4.71,907.74,23.63,1.233,0,76.68,21.3,30.91,55.32,Organic Farming,415.94
+2009,India,Maharashtra,Soybeans,-2.61,1507.34,22.19,2.484,10,99.3,7.11,47.59,54.54,Drought-resistant Crops,873.5
+2012,India,Tamil Nadu,Rice,11.61,358.36,7.25,3.564,10,11.69,13.75,27.49,33.1,Drought-resistant Crops,1293.63
+1998,India,West Bengal,Sugarcane,31.15,2822.58,2.11,0.97,2,17.14,37.97,19.23,34.49,Drought-resistant Crops,221.31
+2002,India,Tamil Nadu,Barley,15.5,934.54,7.84,4.94,0,83.99,41.3,3.97,63.5,Crop Rotation,973.6
+2021,India,Punjab,Coffee,0.39,2027.43,20.87,2.466,4,73.15,35.27,55.36,35.98,No Adaptation,1072.01
+2017,India,Maharashtra,Wheat,31.13,244.03,24.78,1.926,0,47.34,16.99,76.73,82.88,No Adaptation,872.04
+2017,India,Tamil Nadu,Wheat,6.94,2814.06,18.28,1.224,10,70.09,12.96,94.37,54.23,No Adaptation,338.97
+2007,India,West Bengal,Barley,30.96,1147.83,8.99,3.35,8,66.29,28.05,92.8,84.22,Drought-resistant Crops,728.19
+2013,India,Tamil Nadu,Barley,14.99,1029.91,1.9,1.75,0,21.9,2.4,72.26,41,Crop Rotation,633.75
+2014,India,Punjab,Fruits,12.05,371.65,6.79,1.836,5,14.13,49.67,78.24,40.76,Drought-resistant Crops,682.01
+2014,India,Maharashtra,Soybeans,12.84,1429.93,21.5,3.564,3,68.27,40.33,2.52,83.78,Water Management,1737.52
+2004,India,Tamil Nadu,Corn,17,2921.79,1.73,2.39,0,93.49,43.75,77.62,73.69,Drought-resistant Crops,931.8
+2003,India,Punjab,Fruits,12.44,839.18,27.83,3.798,0,76.81,27.91,54.53,43.95,Water Management,818.25
+1997,India,Punjab,Fruits,-4.89,2028.96,16.95,2.385,3,15.67,3.87,39.76,56.19,Organic Farming,725.81
+2002,India,West Bengal,Rice,-0.66,267.14,13.99,0.981,8,18.05,4.04,3.43,76.29,Drought-resistant Crops,304.6
+2020,India,Punjab,Soybeans,22.58,725.09,18.75,3.42,9,54.69,42.81,58.29,43.02,No Adaptation,444.48
+1997,India,West Bengal,Barley,2.68,2795.26,9.01,0.77,4,97.86,33.28,79.57,66.22,Crop Rotation,296.12
+2018,India,Punjab,Wheat,5.59,1548.02,20.46,1.539,9,92.28,45.77,21.99,54.19,Drought-resistant Crops,685.87
+2003,India,Punjab,Wheat,28.25,2311.04,12.21,1.5,1,61.84,29.78,65.44,83.76,Crop Rotation,231.65
+2002,India,West Bengal,Coffee,22.81,1006.93,18.11,1.701,2,72.06,24.7,63.6,91.82,No Adaptation,703.7
+2022,India,Punjab,Coffee,28.29,1983.86,10.6,1.28,2,52.49,33.47,73.51,67.36,Organic Farming,523.91
+2014,India,West Bengal,Cotton,13.96,2312.02,7.4,4.83,8,22.5,31.72,22.93,76.22,Organic Farming,919.87
+2013,India,Tamil Nadu,Fruits,9.22,1904.94,15.82,0.882,2,99.45,26.52,16.96,50.15,Water Management,211.03
+1991,India,Punjab,Barley,20.13,1323.08,8.71,2.87,4,67.21,35.11,96.33,46.21,Water Management,862.62
+2001,India,Tamil Nadu,Rice,-0.73,2932.62,3.07,3,10,65.39,11.79,19.66,55.62,Crop Rotation,613.7
+2020,India,Punjab,Cotton,23.41,1098.09,11.8,3.46,8,65.02,30.37,74.95,84.32,Water Management,373.38
+2013,India,West Bengal,Vegetables,-3.41,2986.7,13.17,1.97,3,36.56,21.7,48.27,60.05,Crop Rotation,428.93
+2003,India,West Bengal,Vegetables,8.54,1743.3,15.95,2.277,9,51.15,35.24,11.43,46.88,Organic Farming,1043.81
+2012,India,Punjab,Vegetables,30.24,2015.55,19.05,1.242,10,41.7,42.01,34.91,96.24,Drought-resistant Crops,389.51
+2013,India,West Bengal,Cotton,-1.62,1377.84,2.57,0.82,1,68.25,14.68,41.52,42.94,Crop Rotation,326.87
+2020,India,Punjab,Sugarcane,34.45,1108.25,25.75,3.231,0,83.89,41.02,23.73,43.69,No Adaptation,721.57
+2006,India,West Bengal,Wheat,4.15,2772.52,25.53,0.621,1,43.42,44.35,80.51,68.1,Crop Rotation,224.75
+1999,India,West Bengal,Wheat,30.28,262.17,1.65,3.141,9,77.52,2.31,75.97,40.9,Drought-resistant Crops,933.04
+2000,India,Maharashtra,Barley,21.6,2036.8,28.23,0.783,4,28.39,43.21,52.13,42.72,Crop Rotation,307.66
+2008,India,Maharashtra,Coffee,11.27,2006.38,6.43,2.37,2,73.97,19.42,54.78,34.01,Water Management,609.82
+2003,India,West Bengal,Vegetables,-3.92,1500.03,25.69,1.359,1,31.15,46.13,21.7,47.02,Water Management,181.73
+2005,India,Tamil Nadu,Sugarcane,19.1,1940.04,7.24,3.15,1,30.51,49.73,74.43,34.14,Crop Rotation,1146.99
+2024,India,Punjab,Wheat,1.5,1773.88,17.03,1.998,1,18.25,35.31,53.02,94.62,Water Management,624.52
+2021,India,Punjab,Rice,16.43,1269.97,13.71,4.36,2,98.22,38.65,18.52,32.32,Drought-resistant Crops,522.33
+1992,India,Punjab,Corn,22.84,662.66,12.33,2.35,3,78.91,15.89,10.74,96.54,Organic Farming,815
+2002,India,Tamil Nadu,Sugarcane,22.9,2565.01,19.79,3.096,9,77.32,17.76,23.81,61.45,Organic Farming,1350.02
+2023,India,Tamil Nadu,Rice,25.41,2841.82,17.01,2.826,10,97.76,44.95,29.52,98.19,Crop Rotation,307.12
+2004,India,Tamil Nadu,Corn,26.77,2698.16,19.38,1.926,0,59.9,8.85,99.3,32.54,Drought-resistant Crops,210.08
+2019,India,Punjab,Coffee,10.4,1244.53,25.33,2.664,7,82.21,22.97,97.97,49.63,Drought-resistant Crops,806.07
+1998,India,Punjab,Wheat,16.57,2114.84,30,3.663,9,53.27,15.03,75.86,68.01,Water Management,1241.3
+1991,India,West Bengal,Vegetables,10.38,2625.5,20.89,3.456,8,80.86,0.94,4.36,91.95,No Adaptation,1309.13
+1998,India,Punjab,Wheat,11.99,542.64,2.57,4.42,9,14.81,35.49,80.22,88.87,No Adaptation,1622.55
+2006,India,Maharashtra,Coffee,18.65,2262.31,0.95,1.8,0,19.98,36.62,49.88,95.7,Water Management,515.64
+1996,India,Tamil Nadu,Cotton,32.93,1130.57,29.21,3.024,4,47.58,15.24,13.92,42.05,Crop Rotation,1421.35
+1998,India,Punjab,Barley,28.23,2799.83,23.12,1.098,0,64.3,42.75,17.93,77.55,Drought-resistant Crops,467.4
+2012,India,Maharashtra,Coffee,21.24,238.01,0.63,1.566,7,35.01,4.24,55.19,99.49,Organic Farming,702.01
+2006,India,Tamil Nadu,Soybeans,10.36,468.96,18.07,2.853,7,24.66,43.75,48.51,36.3,Crop Rotation,647.28
+2009,India,Punjab,Coffee,7.33,2216.76,26.59,1.755,5,12.42,30.62,74.87,80.87,Water Management,657.96
+2012,India,Tamil Nadu,Fruits,30.85,329.13,28.49,3.366,7,14.48,30.88,80.34,43.31,Organic Farming,451.23
+2011,India,Maharashtra,Coffee,18.29,1535.93,24.25,1.584,1,37.64,17.93,93.66,37.02,Organic Farming,459.28
+2023,India,West Bengal,Rice,0.2,2495.4,20.95,2.061,1,23.8,28.43,43.92,84.61,Water Management,243.13
+1997,India,Punjab,Vegetables,27.26,555.91,19,2.106,1,25,49.22,41.18,68.44,Drought-resistant Crops,329.7
+2004,India,Maharashtra,Soybeans,0.18,455.33,4.44,2.232,7,71.23,17.32,59.75,65.07,Crop Rotation,610.94
+2000,India,West Bengal,Cotton,18.01,887.07,5.92,2.48,8,95.88,2.08,54.04,47.21,Organic Farming,861.93
+1995,India,Punjab,Vegetables,21.13,698.01,13.16,1.6,0,94.31,34.51,86.74,98.45,Drought-resistant Crops,425.09
+2022,India,Punjab,Corn,29.8,1488.31,18.9,3.123,7,46.18,17.84,54.54,84.44,Water Management,440.65
+2014,India,Punjab,Wheat,24.45,463.37,12.71,2.313,1,39.96,7.26,0.24,46.48,Crop Rotation,859.34
+2001,India,Tamil Nadu,Soybeans,-0.96,2329.19,27.6,1.683,3,75.92,18.76,82.43,40.11,Drought-resistant Crops,750.46
+2015,India,Punjab,Sugarcane,-0.63,1213.41,2.06,2.51,5,90.78,29.26,32.39,64.05,Organic Farming,1008.27
+2015,India,Tamil Nadu,Barley,-0.84,2323.88,12.94,2.36,4,73.82,39.58,59.83,32.57,Crop Rotation,799.07
+1997,India,West Bengal,Wheat,-2.45,400.65,4.82,2.34,4,96.44,20.22,89.03,43.2,No Adaptation,414.44
+2000,India,Maharashtra,Coffee,12.54,2610.53,5.19,2.81,1,85.12,23.75,9.08,37.85,Water Management,1049.61
+1999,India,Tamil Nadu,Fruits,24.88,2469.16,18.25,3.186,8,10.07,17.53,91.8,92.4,Organic Farming,535.56
+2011,India,Maharashtra,Vegetables,-1.82,2356.99,4.35,1.88,0,55.34,34.92,5.32,34.45,Drought-resistant Crops,716.18
+2004,India,Punjab,Barley,-3.3,564.22,7.47,1.24,0,74.05,47.81,41.47,45.64,Crop Rotation,368.9
+1996,India,West Bengal,Corn,6.08,814.97,9.31,1.8,0,62.89,1.43,2.08,65.45,Organic Farming,795.14
+2006,India,Punjab,Fruits,12.9,1789.33,24.27,2.187,8,18.82,32.58,92.04,73.49,Crop Rotation,679.31
+2013,India,Punjab,Fruits,-1.82,2348.91,22.64,2.277,9,62.14,49.19,99.28,40.97,Crop Rotation,838.99
+1995,India,West Bengal,Coffee,-3.96,1176.38,15.1,0.936,4,67.3,7.33,30.78,80.1,Water Management,277.63
+1990,India,Punjab,Vegetables,25.11,2829.62,16.8,0.9,1,63.89,33.77,94.56,51.92,Crop Rotation,295.99
+2018,India,Tamil Nadu,Fruits,16.04,1180.2,15.61,3.501,1,63.82,21.44,46.97,77.25,Water Management,599.86
+2023,India,Tamil Nadu,Sugarcane,-0.44,2879.03,6.58,1.43,9,70.56,19.53,33.9,91.04,No Adaptation,226.76
+1994,India,Maharashtra,Fruits,1.36,344.26,29.45,1.701,10,73.72,34.25,77.88,77.05,Water Management,452.33
+2014,India,Tamil Nadu,Soybeans,10.21,1182.99,23.65,1.503,0,84.94,22.13,10.87,86.75,No Adaptation,155.89
+1997,India,West Bengal,Vegetables,1.5,1307.38,7.22,2.76,1,58.19,11.92,53.59,97.95,No Adaptation,503
+2023,India,Punjab,Coffee,23.28,586.62,2.76,2.72,4,75.79,36.57,92.27,81.24,Organic Farming,584.26
+2003,India,Punjab,Corn,26.8,1727.28,29.92,2.853,3,15.88,20.09,17.68,39.54,Water Management,323.35
+2016,India,Punjab,Sugarcane,6.07,2159.83,28.97,0.468,0,64.32,42.92,34.82,88.55,Water Management,136.26
+1991,India,West Bengal,Rice,-1.4,2771.04,26.67,1.845,3,13.13,5.76,64.97,92.64,Drought-resistant Crops,195.34
+2019,India,Punjab,Coffee,29.1,1814.37,22.75,3.006,0,74.65,49.99,46.46,95,Organic Farming,1132.98
+2013,India,Punjab,Wheat,32.47,354.71,21.87,1.458,0,45.41,43.48,96.99,77.85,Water Management,536.51
+2018,India,Punjab,Barley,-4.31,2371.19,4.8,2.93,3,42.06,26.77,64.16,33.14,Drought-resistant Crops,459.21
+2001,India,Punjab,Sugarcane,24.57,2863.51,1.03,2.94,6,88.56,22.99,45.48,48.63,No Adaptation,510.52
+1999,India,West Bengal,Wheat,16.57,1359.42,4.58,3.62,5,64.44,13.12,83.1,40.95,No Adaptation,1480
+2004,India,Tamil Nadu,Corn,2.95,2733.81,9.61,1.46,7,66.48,12.84,19.18,62.23,Organic Farming,362.93
+2009,India,West Bengal,Sugarcane,15.7,1802.84,10.96,2.65,1,81.99,49.79,19.86,91.22,Crop Rotation,393.67
+2018,India,Punjab,Barley,24.26,2411.97,9.17,3.88,3,16.74,7.13,5.97,46.19,No Adaptation,1759.53
+2001,India,Punjab,Corn,28.56,1821.32,15.54,2.817,6,96.24,44.19,27.36,70.72,Organic Farming,740.89
+2004,India,Punjab,Coffee,9.46,1803.35,1.06,1.7,1,79.18,28.53,83.2,85.28,No Adaptation,218.87
+2019,India,West Bengal,Barley,18.13,968.39,25.26,2.097,7,26.57,49.09,77.13,81.22,No Adaptation,744.7
+2001,India,Punjab,Coffee,10.73,2249.64,20.13,3.177,10,40.67,30.36,91.9,90.58,No Adaptation,1007.36
+2007,India,West Bengal,Coffee,30.3,2167.09,6.05,1.39,4,62.15,48.94,76.71,49.45,Crop Rotation,247.12
+2007,India,Punjab,Wheat,11.73,2924.33,26.67,4.014,1,70.28,33.65,40.46,95.81,Organic Farming,547.38
+2019,India,West Bengal,Vegetables,15.51,2853.27,15.28,2.196,8,73.85,34.76,2.4,74.36,Organic Farming,950.68
+2019,India,West Bengal,Soybeans,34.38,2497.22,6.98,3.26,6,29.41,46.68,39.14,69.36,Drought-resistant Crops,879.86
+2017,India,Maharashtra,Barley,1.94,1345.81,4.76,2.6,7,31.19,43.41,36.42,75.34,No Adaptation,1128.57
+2014,India,Tamil Nadu,Vegetables,-2.58,2309.76,8.01,1.93,4,34.48,33.09,42.19,40.43,No Adaptation,873.55
+2005,India,Maharashtra,Rice,-3.86,1274.61,22.65,2.664,1,93.23,14.61,70.37,80.21,Drought-resistant Crops,683.26
+2024,India,Maharashtra,Wheat,27.43,2934.53,2.08,0.96,6,42.95,45.75,37.61,37.2,Crop Rotation,142.87
+1999,India,Tamil Nadu,Rice,-2.75,361.09,23.99,1.53,2,17.35,40.44,20.29,73.16,Crop Rotation,500.41
+2001,India,Punjab,Corn,5.58,1146.21,13.57,1.53,9,64.36,22.4,36.66,59.11,Organic Farming,459.21
+2004,India,Punjab,Corn,0.8,965.05,10.03,2.49,6,44.58,24.44,93.14,62.97,Organic Farming,725.85
+1991,India,Tamil Nadu,Corn,-0.07,1684.5,6.74,1.43,9,77.44,13.84,39.15,86.99,Organic Farming,584.3
+2007,India,Punjab,Cotton,14.93,2911.41,2.49,3.92,5,12.54,31.15,70.58,44.6,No Adaptation,1767.85
+2024,India,Punjab,Coffee,13.52,2980.29,23.67,2.097,9,68.42,32.05,71.28,64.45,Crop Rotation,607.24
+1992,India,West Bengal,Fruits,22.34,1562.49,10.57,2.05,8,71.65,30.37,2.41,57.01,Organic Farming,859.97
+1992,India,Tamil Nadu,Coffee,10.23,1335.44,11.23,2.61,5,46.79,18.68,10.13,89.22,Crop Rotation,1104.97
+2016,India,Punjab,Sugarcane,9.27,2629.49,23.47,0.963,7,19.8,29.04,63.04,68.18,Crop Rotation,103.19
+2008,India,Punjab,Fruits,13.19,2930.72,5.36,4.19,3,84.08,42.76,71.62,68.75,Organic Farming,1634.89
+1997,India,Tamil Nadu,Vegetables,17.27,228.63,14.13,1.818,0,89.59,15.27,41.38,59.71,Organic Farming,274.27
+1990,India,Punjab,Fruits,4.03,1349.95,27.77,2.574,10,50.86,39.44,1.46,97.34,No Adaptation,616.9
+2022,India,Tamil Nadu,Cotton,3.45,2619.47,16.78,1.872,3,84.51,26.29,86.91,37.36,Drought-resistant Crops,865.5
+2004,India,Punjab,Sugarcane,28.43,1061.32,25.73,2.682,7,96.47,7.08,16.16,73.07,Crop Rotation,1214.37
+2018,India,West Bengal,Corn,5.72,531.85,17.21,0.756,2,15.04,45.06,87.65,70,Organic Farming,289.95
+2009,India,West Bengal,Vegetables,18.01,486.74,1.33,4.374,3,49.01,45.33,11.9,99.89,Crop Rotation,756.13
+2016,India,West Bengal,Sugarcane,-0.54,2013.52,8.9,1.4,1,74.06,43.14,58.31,68.26,Drought-resistant Crops,316.21
+2004,India,Punjab,Vegetables,-0.98,1623.89,16.14,2.07,6,57.73,7.48,9.04,61.82,No Adaptation,603.38
+1994,India,Tamil Nadu,Fruits,28.3,986.53,7.91,3.83,3,36.39,4.83,60.58,94.9,Drought-resistant Crops,962.81
+2004,India,Maharashtra,Rice,9.04,1281.09,24.7,1.107,0,57.57,23.22,15.12,51.76,Drought-resistant Crops,143.93
+2004,India,Tamil Nadu,Soybeans,8.09,1601.79,17.75,1.17,4,44.73,10.57,76.43,65.59,No Adaptation,513.16
+2015,India,Maharashtra,Coffee,33.44,1226.15,12.77,2.24,0,86.2,41.95,21.02,34.47,Organic Farming,838.48
+2007,India,West Bengal,Vegetables,28.59,846.91,11.74,2.54,5,36.31,40.27,92.94,91.75,Water Management,1082.68
+2002,India,Tamil Nadu,Sugarcane,1.83,2087.3,4.4,1.27,2,14.85,20.13,58.12,40.68,Organic Farming,604.9
+1995,India,West Bengal,Coffee,8.13,1353.96,14.63,0.83,8,56.82,11.74,68.38,32.56,Crop Rotation,139.59
+2009,India,West Bengal,Coffee,0.53,1456.08,29.74,1.773,3,66.24,21.02,46.81,57.96,Water Management,490.28
+2019,India,West Bengal,Soybeans,29.67,2497.49,8.29,2.11,9,15.8,5.33,55.46,33.95,Organic Farming,782.78
+2023,India,Maharashtra,Fruits,10.07,208.52,22.19,4.41,8,78.27,48.51,37.26,61.69,Drought-resistant Crops,1641.59
+2012,India,Punjab,Coffee,-1.96,1940.66,5.09,2.59,3,68.78,27.28,74.16,35.75,Organic Farming,348.17
+2019,India,Punjab,Soybeans,5.7,1318.49,3.29,1.13,1,17.72,19.35,76.86,49.79,Organic Farming,319.93
+1993,India,Tamil Nadu,Fruits,32.57,1713.63,19.37,1.818,5,83.29,31.92,40.59,31.56,Crop Rotation,878.84
+2014,India,Tamil Nadu,Coffee,-4.42,1849.07,25.47,0.558,1,98.65,42.74,71.53,38.49,Drought-resistant Crops,108.18
+2003,India,West Bengal,Rice,28.42,1242.23,28.35,0.801,2,73.2,17.99,37.13,60.41,No Adaptation,138.23
+2009,India,West Bengal,Soybeans,17.65,2822.76,23.07,2.619,6,55.65,43.7,9.74,93.93,Organic Farming,732.27
+2023,India,West Bengal,Wheat,18.85,940.87,13.48,3.4,8,51.82,16.11,98.78,82.79,Crop Rotation,1308.96
+2012,India,Punjab,Cotton,12.14,556.74,23.98,2.61,2,98.87,26.45,14.49,89.18,Drought-resistant Crops,992.23
+1998,India,Tamil Nadu,Barley,5.42,785.75,28.74,1.359,4,86.04,7.63,84.02,60.49,No Adaptation,532.63
+1998,India,Maharashtra,Soybeans,-4.09,1348.17,12.9,2.62,3,90.93,5.95,63.87,74.81,Drought-resistant Crops,1146.31
+2019,India,West Bengal,Sugarcane,13.24,2983.14,23.58,2.961,1,93.36,4.88,60.67,91.45,Water Management,1448.46
+2016,India,Maharashtra,Vegetables,30.97,280.45,13.03,2.943,4,93.02,40.35,50.43,76.94,Organic Farming,1283.59
+2013,India,Maharashtra,Wheat,14.89,1207.16,28.2,4.383,7,63.54,24.53,93.74,37.54,No Adaptation,1697.7
+2018,India,Punjab,Barley,30.42,343.31,2.53,2.916,5,55.08,23.02,3.75,93.5,Drought-resistant Crops,736.75
+2004,India,West Bengal,Sugarcane,-2.11,2745.97,10.43,1.98,5,40.63,1.52,40.27,76.29,Water Management,595.18
+2009,India,Maharashtra,Coffee,-0.69,981.48,10.53,2.88,2,72.97,26.51,8.29,80.32,Crop Rotation,1326.72
+2012,India,West Bengal,Wheat,6.44,658.76,3.33,1.89,6,89.77,28.16,76.25,32.67,Water Management,706.82
+2006,India,Maharashtra,Corn,-2.54,969.31,28.07,1.35,6,53.62,41.2,6.83,94.82,No Adaptation,401.38
+1991,India,Maharashtra,Coffee,2.91,2060.12,15.07,1.503,2,87.1,6.97,38.14,87.96,Drought-resistant Crops,495.34
+2005,India,Tamil Nadu,Corn,28.62,1932.1,12.48,2.78,8,38.87,45.46,8.55,62.22,Water Management,823.74
+2002,India,West Bengal,Wheat,28.57,1218.99,9.92,2.91,0,70.67,38.53,37.27,82.58,Crop Rotation,759.5
+2024,India,Tamil Nadu,Corn,2.13,444.26,23.37,1.161,4,31.56,17.83,56.15,31.52,No Adaptation,415.08
+1991,India,Tamil Nadu,Rice,-0.43,2446.45,20.86,1.125,4,19.32,41.25,0.65,88.14,No Adaptation,300.21
+1999,India,Maharashtra,Barley,8.64,1782.71,28.13,1.89,3,65.82,17.28,98.62,71.67,Water Management,254.85
+2004,India,Punjab,Corn,20.25,1114.17,10.42,2.96,2,75.57,33.73,53.98,39.99,No Adaptation,837.51
+1993,India,Maharashtra,Wheat,25.3,1887.02,11.23,3.13,7,83.46,31.79,59.05,81.58,No Adaptation,907.44
+1992,India,Tamil Nadu,Corn,7.64,291.26,15.81,1.341,7,47.6,31.99,34.2,36.73,Drought-resistant Crops,539.92
+2000,India,Maharashtra,Barley,15.67,2611.9,25.73,2.853,1,83.24,34.48,26.28,79.49,Water Management,1154.63
+1999,India,Tamil Nadu,Fruits,6.79,2631.52,9.51,0.93,3,75.8,47.41,31.76,88.09,No Adaptation,263.3
+2006,India,West Bengal,Sugarcane,13.16,517.64,0.99,3.66,3,40.71,42.69,85.93,95.3,Organic Farming,1490.33
+2012,India,Punjab,Rice,25.69,498.12,4.53,1.881,7,43.35,46.33,69.12,74.12,Organic Farming,371.67
+1994,India,West Bengal,Wheat,17.12,1281.54,11.75,3.46,9,79.41,13.57,2.4,90.57,Drought-resistant Crops,1490.34
+1996,India,Punjab,Barley,30.32,2791.25,25.9,2.934,10,78.78,33.65,45.58,61.64,Organic Farming,570.95
+2006,India,Tamil Nadu,Coffee,25.38,2314.99,3.33,2.23,8,48.41,25.05,6.07,91.23,No Adaptation,817.4
+2013,India,West Bengal,Corn,23.41,407.33,18.2,3.321,9,12.74,31.89,15.07,80.34,Organic Farming,985.01
+2000,India,West Bengal,Fruits,22.16,316.52,25.63,3.348,3,81.08,21.57,30.37,98.8,No Adaptation,1436.34
+2018,India,Punjab,Wheat,17.58,1386.27,15.18,1.71,4,27.88,20.06,80.82,55.83,Drought-resistant Crops,556.62
+2023,India,Tamil Nadu,Corn,18.08,2174.88,21.05,3.618,1,73.44,31.02,20.04,92.14,Crop Rotation,1616.29
+2003,India,Tamil Nadu,Wheat,22.66,2226.29,22.66,3.042,3,33.03,4.25,32.88,99.23,No Adaptation,910.12
+1996,India,Punjab,Soybeans,5.61,2298.02,6.46,2.35,1,52.3,26.1,14.73,92.55,Crop Rotation,1075.04
+2000,India,Maharashtra,Fruits,-4.12,1921.42,15.08,1.827,7,41.92,32.54,65.8,96.07,Crop Rotation,303.19
+2020,India,Maharashtra,Barley,23.65,2580.3,17.4,3.258,1,95.55,13.58,9.64,81.18,Crop Rotation,1322.3
+2000,India,Punjab,Soybeans,31.2,1129.09,16.2,0.837,4,30.9,0.93,93.8,60.87,Organic Farming,183.03
+2024,India,Maharashtra,Coffee,4.35,2974.72,18.12,1.296,0,51.18,15.46,30.49,41.25,Water Management,396.57
+2014,India,Tamil Nadu,Fruits,2.82,2119.19,8.15,1,9,93.06,32.44,46.11,64.95,Crop Rotation,271.6
+2007,India,West Bengal,Barley,32.25,542.46,12.8,2.47,1,21.42,19.3,83.54,51.7,Water Management,314.14
+2003,India,Maharashtra,Fruits,13.61,2241.16,14.08,4.21,6,76.15,20.28,55.97,99.8,Drought-resistant Crops,1900.17
+2013,India,Tamil Nadu,Soybeans,22.32,983.14,16.23,1.143,3,37.64,35.35,1.68,38.95,Water Management,179.64
+1990,India,West Bengal,Sugarcane,7.86,2139.98,6.07,2.26,0,29.71,12.22,6.32,95.16,Organic Farming,350.06
+2014,India,West Bengal,Coffee,10.39,1321.22,7.48,3.17,6,25.43,40.03,32.47,63.84,Water Management,1505.38
+1991,India,Tamil Nadu,Corn,30.21,1962.73,1.37,1.43,1,40.04,13.87,48.67,51.29,Drought-resistant Crops,678.75
+2000,India,Punjab,Barley,-3.32,2642.21,22.59,1.17,2,17.1,39.76,46.24,92.19,Drought-resistant Crops,311.47
+2016,India,Punjab,Vegetables,28.58,2378.03,7.64,2.84,5,90.42,19.57,74.43,37.5,Drought-resistant Crops,304.07
+2016,India,West Bengal,Fruits,33.05,1498.73,22.73,3.33,3,95.07,29.69,3.42,88.53,Organic Farming,813.03
+2004,India,West Bengal,Rice,4.48,2624.98,13.84,1.52,6,16.63,33.73,61.9,41.17,No Adaptation,650.94
+2016,India,Punjab,Corn,6.21,1738.51,12.74,1.07,8,83.82,24.74,81.07,83.02,Organic Farming,250.63
+2020,India,Maharashtra,Corn,14.99,2294.61,5.2,3.57,3,43.13,30.8,14.97,58.22,Water Management,629.86
+2007,India,Maharashtra,Cotton,19.88,2648.05,2.6,2.72,9,33.51,20.55,43.49,31.61,Crop Rotation,644.17
+2012,India,Punjab,Cotton,17.57,1678.27,20.93,2.727,7,86.25,20.45,31.08,57.2,No Adaptation,919.61
+2004,India,West Bengal,Rice,33.3,1738.18,0.74,2.21,2,86.93,3.99,9.77,57.01,Drought-resistant Crops,622.57
+2006,India,Punjab,Rice,27.43,2514.62,2.73,1.24,1,45.54,38.95,1.1,52.99,No Adaptation,394.76
+2010,India,Tamil Nadu,Vegetables,-1.89,1277.36,12.28,1.75,4,17.95,31.98,79.47,39.2,No Adaptation,871.47
+2010,India,Tamil Nadu,Sugarcane,10.75,2076.7,27.29,2.232,1,10.9,29.96,38.94,52.07,No Adaptation,741.66
+2021,India,Maharashtra,Sugarcane,21.56,695.52,7.32,3.99,3,47.44,34.72,97.13,42.63,Water Management,498.34
+2015,India,Maharashtra,Wheat,2.79,1011.53,20.42,2.466,8,85.98,29.93,35.28,55.09,Drought-resistant Crops,917.95
+2002,India,West Bengal,Vegetables,34.55,2220.08,8.55,1.5,3,48.2,8.35,63.16,71.73,Organic Farming,436.68
+1991,India,Tamil Nadu,Soybeans,-4.51,1667.68,16.55,0.918,6,79.51,0.8,32.16,70.68,Drought-resistant Crops,422.35
+2012,India,Tamil Nadu,Soybeans,2.41,1909.15,24.89,1.161,10,82.92,49.61,44.78,95.44,No Adaptation,380.76
+2008,India,Tamil Nadu,Soybeans,23.69,859.5,5.34,3.8,2,89.67,12.67,99.18,62.28,Crop Rotation,789.47
+2015,India,Tamil Nadu,Sugarcane,34.87,2553.85,4.56,3.78,2,11.97,10.21,22.86,58.03,Drought-resistant Crops,1410.49
+2021,India,Maharashtra,Corn,14.83,2608.49,24.95,3.546,9,17.66,49.46,11.38,61.2,No Adaptation,676.55
+2005,India,Maharashtra,Soybeans,-1.02,2342.85,13.32,1.85,6,90.26,29.36,89.59,53.1,Water Management,630.64
+2012,India,Tamil Nadu,Sugarcane,27.79,218.65,4.9,1.206,3,30.38,37.83,15.93,40.93,Crop Rotation,573.3
+1996,India,Maharashtra,Soybeans,34.72,1934.64,0.65,2.74,2,61.75,49.39,67.39,83.97,Water Management,995.94
+2023,India,Maharashtra,Soybeans,13.12,464.9,14.31,2.808,9,46.12,21.11,52.59,65.67,Crop Rotation,984.62
+2023,India,Punjab,Fruits,18.92,707.61,27.77,4.113,3,43.88,19.72,86.41,33.81,No Adaptation,1995.21
+1993,India,West Bengal,Sugarcane,8.31,1053.67,17.43,2.124,3,30.52,2,3.01,72.59,No Adaptation,697.43
+1999,India,Punjab,Barley,4.56,1394.02,1.63,0.83,5,14,17.62,19.54,41.58,Drought-resistant Crops,95.54
+1998,India,West Bengal,Rice,10.2,890.36,29.59,4.014,2,69.64,5.49,33.09,46.86,Water Management,1318.09
+1998,India,Punjab,Cotton,9.21,2069.31,25.42,0.846,5,77.62,40.93,11.67,48.21,Water Management,268.73
+2004,India,West Bengal,Soybeans,2.08,2472.43,27.2,2.025,5,84.3,32.35,75.76,41.55,Organic Farming,764.07
+2012,India,Punjab,Vegetables,-0.7,1013.37,13.2,0.64,4,26.11,19.3,98.48,89.99,Drought-resistant Crops,103.5
+2004,India,Punjab,Coffee,9.23,803.5,28.67,1.827,7,65.61,29.38,40.36,33.62,Organic Farming,193.35
+2021,India,Maharashtra,Soybeans,7.31,1342.22,7.05,1.66,7,40.09,8.92,27.63,91.03,No Adaptation,197.71
+2018,India,Tamil Nadu,Cotton,-2.95,813.51,15.07,1.197,7,30.12,30.81,50.05,44.27,Water Management,152.04
+2007,India,Maharashtra,Rice,31.84,2718.9,16.33,2.43,5,85.85,23.1,43.66,93.51,Drought-resistant Crops,470.28
+2009,India,Tamil Nadu,Fruits,14.29,1993.41,25.88,1.755,10,74.08,39.84,34.6,53.04,No Adaptation,426.8
+2008,India,Maharashtra,Coffee,32.59,258.97,24.19,2.592,8,49.59,2.26,88.19,57.93,No Adaptation,810.84
+2019,India,West Bengal,Soybeans,15.09,733.34,19.04,3.384,3,67.27,28.38,71.49,81.59,Drought-resistant Crops,1085.57
+1994,India,West Bengal,Coffee,27.85,662.48,26.76,2.988,8,38.64,5.53,97.68,34.49,No Adaptation,312.46
+2007,India,Punjab,Coffee,4.7,2339.64,6.42,0.96,6,32.42,48.97,42.79,60.61,Organic Farming,225.63
+2023,India,West Bengal,Corn,-3.38,1477.82,23.86,2.232,3,57.1,19.05,19.86,31.87,Drought-resistant Crops,880.4
+2007,India,Maharashtra,Sugarcane,13.56,362.03,24.77,1.62,5,74.86,27.1,91.31,62.42,Drought-resistant Crops,512.53
+2022,India,Maharashtra,Rice,21.66,1951.52,14.54,2.69,1,41.04,7.21,15.05,61.61,Organic Farming,794.95
+2000,India,Punjab,Corn,-1.31,1343.46,4.89,0.89,0,70.54,22.36,92.03,90.36,No Adaptation,310.04
+1996,India,Punjab,Rice,-3.62,2793.19,2.39,2.59,8,59.9,8.43,24.24,86.51,Water Management,334.17
+1996,India,Maharashtra,Cotton,23.95,2843.4,28.01,2.574,5,27.46,3.57,96.03,84.84,Organic Farming,425.76
+2012,India,Tamil Nadu,Wheat,13.19,2529.17,23.15,4.455,5,29.04,48.78,44.36,91.67,Water Management,1810.75
+2011,India,West Bengal,Vegetables,7.65,1172.27,21.24,1.413,7,20.6,6.79,65.73,44.08,No Adaptation,656.05
+1998,India,Punjab,Soybeans,-4.29,751.66,23.59,2.259,7,34.52,23.02,42.85,97.03,Drought-resistant Crops,326.38
+2005,India,Punjab,Fruits,3.96,425.42,8.9,0.891,1,73.72,48.05,71.04,70.04,Water Management,148.32
+2006,India,Maharashtra,Coffee,11.18,831.61,18.38,3.681,2,98.85,35.19,26.45,92.45,Water Management,380.32
+2002,India,Punjab,Sugarcane,9.7,931.16,1.72,1.05,2,36.09,19.16,71.71,50.14,Water Management,413.42
+2019,India,Maharashtra,Cotton,6.77,2682.32,24.75,1.926,4,18.36,6.73,89.58,56.44,Drought-resistant Crops,542.64
+2002,India,Tamil Nadu,Vegetables,17.86,1761.12,17.56,1.422,5,71.67,47,90.64,93.08,Organic Farming,513.7
+2017,India,Tamil Nadu,Wheat,16.79,1129.95,7.6,4.89,2,77.84,26.6,55.9,89.26,Water Management,2300
+2024,India,Punjab,Barley,30.86,412.28,5.21,1.035,5,31.56,26.3,20.94,98.13,Drought-resistant Crops,217.2
+2021,India,Tamil Nadu,Fruits,33.62,2904.03,25.67,0.972,7,23.34,3.61,80.47,80.57,Drought-resistant Crops,110.84
+2017,India,Punjab,Fruits,13.99,2618.24,24.18,3.843,9,39.52,25.73,50.23,85.41,No Adaptation,1293.04
+2008,India,Punjab,Rice,17.01,2538.66,15.78,3.096,1,17.15,4.75,69.86,85.42,No Adaptation,710.04
+2015,India,Tamil Nadu,Wheat,32.55,2334.5,1.45,3.34,0,75.73,8.34,11.41,41.66,Water Management,1608.94
+2016,India,Tamil Nadu,Vegetables,30.04,2977.32,24.46,3.249,6,10.29,41.47,56.53,82.81,Organic Farming,776.71
+2002,India,Tamil Nadu,Coffee,-2.8,2268.62,18.36,2.07,10,97.81,0.09,87.22,83.75,Water Management,468.06
+1992,India,West Bengal,Soybeans,13.39,1371.86,15.72,1.8,5,93.31,7.39,50.44,76.93,No Adaptation,447.98
+2003,India,Tamil Nadu,Coffee,21.62,2306.46,16.43,2.781,10,80.05,29.03,30.31,74.37,Crop Rotation,1081.52
+2007,India,Tamil Nadu,Vegetables,15.91,1389.79,8.11,2.97,0,36.58,17.53,45.01,73.03,Water Management,478.26
+2012,India,West Bengal,Wheat,4.97,755.36,15.11,1.332,4,95.4,40.97,3.14,82.39,Organic Farming,423.6
+2012,India,West Bengal,Wheat,25.79,1740.23,13.36,3.65,0,42.4,8.93,60.96,45.96,Drought-resistant Crops,1805.18
+2021,India,West Bengal,Coffee,9.33,609.54,7.77,2.42,2,98.6,19.57,58.88,30.88,No Adaptation,940.08
+2009,India,West Bengal,Wheat,19.96,2471.92,15.29,1.971,8,30.3,19.38,82.51,99.23,No Adaptation,814.99
+2014,India,West Bengal,Fruits,34.55,1269.39,4.43,2.82,7,53.79,40.6,92.3,30.57,Organic Farming,945.08
+1999,India,Tamil Nadu,Coffee,30.47,1438.59,24.72,2.799,0,86.77,47.43,49.57,47.34,Organic Farming,1095.1
+2004,India,Punjab,Wheat,12.67,2063.49,27.68,2.421,4,39.3,48.64,61.05,89.42,Organic Farming,1111.91
+2009,India,Punjab,Cotton,21.3,2399.86,29.97,2.205,10,28.65,5.72,63.63,97,Water Management,952.56
+2007,India,Punjab,Vegetables,20.43,2846.98,25.78,2.106,2,74.9,10.83,52.47,87.35,No Adaptation,806.93
+2024,India,Tamil Nadu,Corn,-3.81,1147.87,24.06,1.638,5,64.3,28.72,83.69,44.54,No Adaptation,374.09
+1997,India,Punjab,Fruits,10.77,2062.57,27.27,2.727,9,66.11,36.81,57.34,51.19,Crop Rotation,827.5
+2013,India,Maharashtra,Fruits,2.6,1649.59,17.96,1.305,4,23.02,6.77,85.77,92.34,Drought-resistant Crops,243.11
+2011,India,West Bengal,Vegetables,8.41,329.39,13.94,0.801,8,96.82,49.88,68.82,90.22,Water Management,366.3
+1990,India,Tamil Nadu,Sugarcane,9.34,2521.02,7.51,2.71,4,97.47,10.49,17.08,63.06,Drought-resistant Crops,1016.12
+2013,India,Punjab,Sugarcane,34.69,2793.03,25.97,3.528,9,52.8,31.78,90.37,85.08,Organic Farming,1064.4
+2022,India,Maharashtra,Rice,33.05,358.19,4.06,0.945,0,90.75,6.07,64.58,91.68,Drought-resistant Crops,292
+2016,India,Tamil Nadu,Coffee,34.05,995.19,1.61,3.32,2,65.45,24.97,71.26,34.64,Drought-resistant Crops,1462.01
+1991,India,Tamil Nadu,Sugarcane,33.54,581.95,28.28,1.134,5,38.25,30.95,38.33,79.09,No Adaptation,118.33
+1991,India,Maharashtra,Corn,10.81,1916.32,11.59,3.51,10,79.99,28.29,97.08,42.7,Water Management,631.24
+1998,India,Tamil Nadu,Corn,18.44,1737.76,2.85,1.89,4,58.77,23.14,9.22,34.69,Crop Rotation,552.71
+2004,India,Maharashtra,Fruits,-0.9,1254.29,5.3,1.32,2,80.21,2.06,65.65,47.54,Crop Rotation,309.68
+1999,India,Punjab,Barley,7.95,975.09,17.21,2.295,4,79.34,20.86,0.32,86.15,Organic Farming,539.01
+2014,India,Punjab,Wheat,-3.82,2641.91,18.44,1.656,7,71.71,18.89,7.64,54.37,Organic Farming,712.64
+2012,India,Maharashtra,Sugarcane,0.16,2043.05,12.28,2.17,8,20.63,11.78,84.4,30.64,No Adaptation,865.02
+2007,India,Maharashtra,Rice,7.71,2253.64,21.42,0.792,7,65.1,2.29,32.61,37.72,Crop Rotation,85.54
+2004,India,Tamil Nadu,Cotton,2.81,2053.48,8.02,1.11,9,32.68,44.46,25.92,94.38,No Adaptation,391.89
+1999,India,Punjab,Fruits,7.1,2216.55,29.56,0.639,2,24.72,49.5,76.89,62.47,Drought-resistant Crops,109.02
+2012,India,Punjab,Sugarcane,19.66,2425.38,5.08,2.52,3,18.39,25.04,57.97,88.5,Water Management,739.54
+2022,India,Punjab,Corn,18.23,1656.43,9.59,3.38,0,49.75,1.89,64.81,70.04,Water Management,557.39
+1990,India,Maharashtra,Fruits,22.9,1756.22,23.26,2.889,7,41.63,22.73,71.64,49.61,Water Management,796.33
+2022,India,Tamil Nadu,Sugarcane,13.18,2250.7,11.26,4.74,5,78.64,39.29,98.91,85.41,Crop Rotation,1956.87
+2009,India,Tamil Nadu,Coffee,12.81,1328.15,15.07,2.313,8,47.52,4.35,27.79,81.17,No Adaptation,879.03
+2002,India,Tamil Nadu,Rice,22.83,1230.77,4.78,3.63,6,18.26,4.7,3.97,95.22,Water Management,1432.27
+2010,India,West Bengal,Vegetables,32.1,1536.2,14.15,2.96,2,84.87,2.87,81.3,51.72,Crop Rotation,928.92
+2019,India,Tamil Nadu,Corn,31.85,2926.57,2.37,0.87,1,80.31,24.85,34.88,92.93,Drought-resistant Crops,328.94
+2024,India,West Bengal,Vegetables,11.51,1465.54,23.59,2.178,5,66.11,46.54,32.3,85.14,Drought-resistant Crops,623.51
+2010,India,Tamil Nadu,Rice,13.15,378.61,21.62,1.809,8,75.14,12.84,67.63,81.61,Drought-resistant Crops,697.56
+2023,India,Maharashtra,Rice,3.27,1515.58,29.58,0.486,5,44.78,10.06,84.73,91.81,Organic Farming,180.92
+2007,India,Punjab,Sugarcane,11.75,1386.34,11.98,3.66,1,58.79,47.69,31.49,49.28,No Adaptation,1013.2
+2016,India,Maharashtra,Cotton,24.76,543.34,22.11,2.556,6,62.19,12.71,92.91,66.86,Organic Farming,1008.18
+2004,India,Tamil Nadu,Rice,17.69,558.69,4.27,4.56,2,33.13,25.08,86.15,57.34,Crop Rotation,2187.88
+1997,India,West Bengal,Coffee,9.8,1417.87,15.15,2.034,1,67.85,20.2,10.19,54.91,Organic Farming,614.98
+1996,India,Punjab,Coffee,15.25,770.23,6.13,3.2,10,48.84,44.5,68.84,54.57,Drought-resistant Crops,502.65
+2001,India,Punjab,Sugarcane,25.74,633.86,19.42,2.475,0,26.58,30.06,46.6,48.65,No Adaptation,964.81
+2020,India,Punjab,Fruits,16.53,2637.1,0.81,4.96,7,87.71,30.57,44.76,65.7,Crop Rotation,1885.29
+2005,India,Maharashtra,Barley,-0.68,2244.61,18.1,2.412,9,51.33,12.22,82.55,91.23,Water Management,977.6
+2022,India,Punjab,Sugarcane,6.59,2954.9,6.42,0.54,2,24.25,0.29,24.06,67.58,Crop Rotation,252.03
+2017,India,Maharashtra,Sugarcane,-2.21,2952.47,19.04,1.206,7,24.3,4.24,31.89,49.98,Organic Farming,547.97
+2012,India,West Bengal,Wheat,21.71,1475.08,3.92,1.18,1,56.1,32.45,39.35,84.68,Drought-resistant Crops,466.2
+2012,India,Maharashtra,Soybeans,33.25,1439.94,23.9,2.304,3,35.69,13.25,33.21,70.15,Water Management,237.99
+2008,India,Tamil Nadu,Corn,14.26,1295.02,10.02,2.84,0,35.72,31.23,78.57,87.61,Crop Rotation,318.91
+1992,India,Maharashtra,Coffee,26.48,666.28,7.7,3.57,7,70.26,13.26,85.57,87.14,Water Management,1013.13
+1998,India,West Bengal,Coffee,26.07,2990.84,26.89,2.817,9,28.2,47.11,71.79,32.57,Organic Farming,1061.75
+2003,India,Maharashtra,Soybeans,5.75,1272.74,17.26,0.612,4,17.5,25.83,19.1,67.06,Water Management,237.79
+2004,India,Maharashtra,Sugarcane,30.82,1874.77,28.65,2.799,4,86.38,4.53,69.39,32.6,Drought-resistant Crops,1340.01
+2005,India,West Bengal,Cotton,26.59,1859.71,23.63,0.972,1,69.86,31.2,65.33,41.27,Water Management,366.56
+2021,India,West Bengal,Soybeans,31.96,2897.46,13.61,1.51,3,84.67,37.65,39.35,86.53,No Adaptation,265.64
+2015,India,Tamil Nadu,Cotton,3.83,623.97,8.11,0.89,4,47.28,37.52,32.43,39.93,No Adaptation,131.22
+2024,India,Maharashtra,Soybeans,27.26,1251,27.8,3.042,10,62.6,48.7,15.88,57.1,Organic Farming,906.55
+2022,India,Tamil Nadu,Wheat,29.5,2034.73,27.44,3.204,1,25.14,23.04,13.31,36.56,Crop Rotation,1179.14
+2019,India,Tamil Nadu,Cotton,12.18,227.76,4.19,3.114,8,37.17,6.28,16.54,94.1,No Adaptation,1011.39
+1994,India,Punjab,Fruits,5.01,251.54,9.11,2.628,2,15.15,33.11,15.21,85.13,No Adaptation,1204.43
+2012,India,Punjab,Soybeans,13.69,2203.23,27.52,1.746,7,22.55,35.37,80.23,40.93,Water Management,571.03
+2004,India,Maharashtra,Fruits,14.86,1303.9,15.77,4.428,8,80.48,8.68,60.95,71.07,Drought-resistant Crops,853.04
+2005,India,West Bengal,Cotton,12.43,2532.57,15.5,1.755,2,77.33,23.05,55.09,83.91,Water Management,729.26
+1995,India,Punjab,Vegetables,18.11,2146.93,4.63,4.95,8,74.77,16.92,91.05,43.62,Drought-resistant Crops,964.57
+2023,India,West Bengal,Fruits,34.1,2200.55,15.22,0.873,1,11.45,38.54,87.89,54.17,Drought-resistant Crops,425.75
+2014,India,West Bengal,Rice,21.4,2359.01,5.3,2.11,2,47.33,42,32.14,94.37,Crop Rotation,693.24
+1994,India,Maharashtra,Sugarcane,6.12,1485.54,6.62,2.16,2,61.54,28.97,93.43,53.42,No Adaptation,931.21
+2009,India,Punjab,Wheat,12.76,1484.64,5.68,2.37,6,19.87,20.36,49.42,90.06,No Adaptation,259.62
+1995,India,West Bengal,Wheat,-2.16,498.82,3.46,2.25,2,34.96,47.18,48.95,60.61,No Adaptation,1041.54
+2007,India,Tamil Nadu,Cotton,21.27,1595.73,20.05,1.593,0,33.34,48.33,75.45,45.54,Water Management,658.09
+2005,India,Tamil Nadu,Vegetables,24.99,1257.46,6.82,3.2,6,29.88,9.41,25.72,88.86,Crop Rotation,449.7
+2021,India,Punjab,Soybeans,3.4,1549.26,19.27,1.305,7,78.1,49.88,55.36,75.73,No Adaptation,346.15
+1998,India,Maharashtra,Soybeans,16.44,1840.5,29.06,2.457,7,17.87,15.77,34.56,56.78,Organic Farming,774.42
+2011,India,Punjab,Coffee,0.65,1254.22,23.76,2.106,3,25.12,4.55,63.66,32.5,No Adaptation,1035.98
+2000,India,Punjab,Sugarcane,20.1,1958.95,7.77,2.57,10,68.85,18.28,61.19,50.63,Crop Rotation,1098.65
+2021,India,Punjab,Cotton,-3.75,894.1,16.44,0.936,10,82.81,10.69,37.24,90.18,Drought-resistant Crops,179.21
+2024,India,Tamil Nadu,Soybeans,-1.05,1361.43,18.47,0.765,0,67.99,43.64,51.56,81.05,Water Management,146.53
+2002,India,West Bengal,Barley,-1.87,1984.54,14.79,2.24,10,36.03,10.34,53.32,40.03,Drought-resistant Crops,672.43
+2010,India,West Bengal,Vegetables,32.19,952.65,4.34,3.37,7,94.3,22.23,84.73,72.65,Drought-resistant Crops,601.88
+2021,India,Tamil Nadu,Cotton,23.36,2472.54,3.64,2.53,7,72.51,44.22,69.46,74.41,Organic Farming,1030.79
+2006,India,Punjab,Vegetables,34.97,963.87,18.28,2.556,4,83.66,49.21,21.74,38.71,Organic Farming,1008.1
+2004,India,Punjab,Fruits,6.61,2557.8,3.75,0.79,3,98.91,36.22,7.93,43.66,No Adaptation,392.46
+2023,India,Punjab,Corn,13.95,1382.77,12.82,3.47,10,30.83,1,25.05,60.11,Crop Rotation,521.02
+2001,India,Punjab,Coffee,2.54,312.66,14.16,1.935,6,97.74,17.37,15.23,74.86,Organic Farming,304.29
+2014,India,Tamil Nadu,Fruits,-1.08,2117.05,3.77,2.85,0,58.09,12.1,14.69,96.24,Crop Rotation,819.46
+2009,India,Punjab,Rice,25.94,2158.75,2.68,1.53,3,20.99,48.57,18.71,62.5,Drought-resistant Crops,384.62
+2023,India,Punjab,Sugarcane,-1.69,675.38,15.57,2.673,2,97.03,41.02,95.85,58.48,No Adaptation,1097.74
+2001,India,Maharashtra,Vegetables,31,516.98,23.75,1.548,3,31.59,8.12,47.65,67.63,Crop Rotation,472.05
+1996,India,Maharashtra,Corn,26.24,2803.48,4.72,2.79,6,12.74,5.82,38.38,80.46,Water Management,427.92
+2013,India,Tamil Nadu,Wheat,34.7,2301.93,11.71,2.79,3,43.03,47.59,69.62,30.24,Crop Rotation,551.95
+1993,India,Tamil Nadu,Sugarcane,-1.3,1505,23.9,0.828,5,21.44,42.36,86.54,66.9,Water Management,345.11
+1995,India,Punjab,Sugarcane,18.19,710.71,23.69,3.96,0,60.14,37.27,70.15,49.87,Drought-resistant Crops,916.23
+2002,India,West Bengal,Cotton,18.71,563.38,11.94,2.38,5,80.85,29.7,0.03,30.97,Water Management,605.36
+2023,India,Tamil Nadu,Fruits,2.34,2918.75,15.28,2.169,8,92.9,32.72,74.76,51.39,No Adaptation,836.49
+2001,India,Tamil Nadu,Barley,17.63,2057.43,18.1,2.16,2,88.91,11.37,34.93,57.66,Crop Rotation,336.1
+1998,India,West Bengal,Wheat,32.65,2640.57,5.99,3.76,9,43.8,48.98,53.27,76.36,Crop Rotation,1568.41
+2022,India,West Bengal,Soybeans,8.92,2329.91,4.27,1.75,4,87.08,23.18,35.87,37.79,Water Management,850.41
+2010,India,Tamil Nadu,Coffee,21.71,600.1,8.93,2.6,5,79.29,23.99,71.42,62.91,Water Management,679.9
+2016,India,West Bengal,Corn,4.89,621.43,14.88,2.46,0,71.25,42.96,30.56,36.86,No Adaptation,799.42
+1997,India,Tamil Nadu,Cotton,33.68,1352.67,2.07,1.04,1,84.05,3.77,77.11,86.75,Organic Farming,289.33
+2004,India,Punjab,Vegetables,9.96,1685.45,17.89,1.989,3,42.77,33.13,41.24,48.86,Water Management,506.63
+2021,India,Tamil Nadu,Cotton,5.36,1478.53,18.2,1.332,8,92.27,10.09,99.2,65.86,No Adaptation,487.76
+1996,India,Punjab,Fruits,5.87,1622.77,10.76,2.88,9,63.8,14.38,12.53,72.78,Organic Farming,577.19
+1998,India,Punjab,Corn,11.3,2882.02,15.62,1.584,9,32.23,47.3,90.87,66.17,No Adaptation,386.97
+2000,India,Punjab,Barley,3.56,2044.92,15.87,1.035,10,35.96,37.04,8.32,90.28,Water Management,227.58
+2002,India,Punjab,Rice,8.05,721.62,24.53,1.611,10,33.89,29.92,13.88,65.18,Drought-resistant Crops,514.8
+2012,India,Tamil Nadu,Barley,16.7,665.03,17.92,3.069,8,23.67,24.49,5.37,35.71,Crop Rotation,1505.91
+2012,India,West Bengal,Sugarcane,21.86,952.86,3.43,2.86,0,35.41,31.09,22.1,92.72,Organic Farming,585.51
+2013,India,West Bengal,Coffee,29.07,2735.11,10.13,1.18,2,69.06,34.55,31.41,50.44,No Adaptation,442.08
+1997,India,Maharashtra,Soybeans,5.73,1984.28,3.48,1.79,3,48.58,45.42,98.01,55.81,Drought-resistant Crops,799.56
+1997,India,Tamil Nadu,Sugarcane,-3.98,1064.65,6.08,2.1,5,73.85,34.33,26.51,80.27,Drought-resistant Crops,886.28
+2004,India,West Bengal,Cotton,9.68,2612.98,13.04,2.9,7,89.4,17.22,52.99,36.56,Water Management,1193.5
+2017,India,West Bengal,Fruits,1.94,1747.68,12.06,0.61,4,13.56,38.69,25.11,56.05,No Adaptation,147.17
+2005,India,Tamil Nadu,Soybeans,21.61,1270.11,10.32,2.3,6,29.3,33.19,88.97,42.01,Organic Farming,632.28
+2019,India,West Bengal,Cotton,-1.24,1810.72,14.49,0.58,1,12.37,19.63,70.57,36.28,Crop Rotation,148.21
+2010,India,West Bengal,Vegetables,11.96,746.3,22.7,2.637,7,71.41,37.56,23.45,60.61,Water Management,661.22
+2001,India,Punjab,Rice,18.62,1930.92,24.18,1.377,6,25.52,14.17,17.07,87.37,Crop Rotation,411.98
+2013,India,Tamil Nadu,Soybeans,25.11,2994.1,24.55,2.529,8,84.47,30.5,26.68,37.48,Crop Rotation,444.89
+2010,India,Punjab,Rice,-1.25,495.64,8.78,2.205,7,32.91,44.81,94.37,66.52,Water Management,1086.94
+2002,India,Tamil Nadu,Rice,-0.74,558.46,6.36,2.2,4,37.52,45.79,25.24,87.55,No Adaptation,1018.91
+2009,India,Maharashtra,Coffee,16.17,1473.43,1.3,2.1,6,47.3,25.89,38.57,57.45,Organic Farming,565.68
+2001,India,Tamil Nadu,Barley,6.16,882.55,4.87,2.46,5,89.82,7.98,16.82,49.53,Water Management,316.51
+2011,India,Tamil Nadu,Rice,12.5,884.31,22.58,2.862,4,14.37,32.36,71.52,69.92,Drought-resistant Crops,783.17
+1992,India,Punjab,Vegetables,14.72,1462.31,10.85,2.47,1,69.72,44.79,7.79,84.99,Drought-resistant Crops,460.9
+2014,India,Tamil Nadu,Fruits,22.02,2959.07,10.58,2.64,6,63.11,15.42,93.38,78.12,Water Management,618.2
+2005,India,Punjab,Vegetables,-1.43,309.88,5.77,0.963,3,68.86,41.63,55.45,89.57,Crop Rotation,315.6
+2004,India,Punjab,Corn,-1.92,1553.18,9.02,2.21,5,52.39,26.92,9.58,60.37,Organic Farming,544.18
+2015,India,West Bengal,Soybeans,28.52,1487.83,11.01,3.79,0,24.77,49.39,6.18,73.88,No Adaptation,866.51
+2011,India,Punjab,Fruits,7.77,1924.96,5.84,2.11,6,22.65,26.97,50.83,85.03,No Adaptation,580.74
+2022,India,West Bengal,Sugarcane,29.19,1245.07,4.9,0.87,10,95.88,18.99,48.28,73.98,Drought-resistant Crops,268.78
+2005,India,Maharashtra,Rice,33.5,1208.04,27.97,1.71,3,24.64,42.13,77.81,49.11,Water Management,735.5
+1995,India,Maharashtra,Coffee,-0.32,1141.19,3.21,1.38,9,66.82,29.42,18.5,68,Crop Rotation,151.83
+2011,India,West Bengal,Rice,4,495.7,6.04,0.9,0,23.65,1.66,2.9,52.57,No Adaptation,354.38
+2006,India,West Bengal,Cotton,12.22,2434.56,5.98,2.56,7,61.23,35.29,10.03,57.6,Crop Rotation,734.38
+2004,India,Punjab,Corn,5.73,1254.7,29.78,1.143,2,41.22,44.87,22.95,62.23,Water Management,442.92
+1995,India,Punjab,Vegetables,13.98,1940.83,6.11,4.1,6,74.79,33.24,74.95,96.05,Drought-resistant Crops,1026.14
+2008,India,West Bengal,Wheat,24.77,2662.95,15.25,2.835,1,41.44,13.99,91.46,75.57,Crop Rotation,1214.75
+2018,India,Tamil Nadu,Coffee,32.69,501.57,23.2,3.069,10,25.47,36.48,31.76,80.45,Water Management,1471.1
+2008,India,Punjab,Vegetables,25.73,1001.81,27.24,1.917,7,53.07,45.35,77.46,48.24,Crop Rotation,936.65
+1998,India,Punjab,Sugarcane,19.92,1248.01,6.12,4.96,6,67.09,30.13,64.61,83.45,Organic Farming,2346.47
+2008,India,Maharashtra,Corn,28.74,1993.18,15.72,1.692,1,68.23,26.76,20.18,40.46,Crop Rotation,184.95
+2013,India,Tamil Nadu,Cotton,27.57,2788.88,4.77,3.82,9,93.59,19.88,81.91,89.29,Organic Farming,1880.51
+2002,India,Maharashtra,Fruits,26.22,2489.59,26.61,3.384,4,32.59,4.61,98.32,70.52,Water Management,943.94
+1996,India,Maharashtra,Coffee,4.33,2779.86,2.39,0.67,2,99.87,30.28,84.8,63.03,Water Management,250.12
+2001,India,Tamil Nadu,Wheat,25.27,2689.42,16.56,3.429,5,26.46,36.52,32.63,71.41,No Adaptation,866
+2012,India,Tamil Nadu,Rice,24.11,486.54,24.49,2.25,8,80.37,20.04,51.03,81.55,Water Management,1074.84
+1992,India,Maharashtra,Corn,33.62,1770.27,4.62,0.81,9,87.29,5.63,41.84,31.48,No Adaptation,403.93
+2022,India,West Bengal,Barley,-0.25,1502.83,25.8,0.522,10,23.85,25.06,16.16,92.62,Drought-resistant Crops,61.84
+2024,India,Tamil Nadu,Vegetables,6.33,1216.1,10.61,2.53,2,11.11,28.44,28.92,90.54,Water Management,1127.27
+2009,India,Maharashtra,Wheat,23.67,495.99,19.9,2.232,2,25.36,9.6,39.13,73.34,Drought-resistant Crops,555.94
+2023,India,Punjab,Barley,16.4,430.2,6.97,4.014,2,77.52,19.13,85.36,75.64,Water Management,1937.95
+2013,India,West Bengal,Fruits,12.25,2126.11,5.14,4.83,9,19.19,14.46,6.03,32.76,No Adaptation,1957.66
+2004,India,West Bengal,Barley,4.72,1008.19,23.3,1.512,9,61.14,9.89,18.84,37.82,No Adaptation,500.46
+1994,India,Maharashtra,Sugarcane,29.88,272.95,4.72,0.729,7,89.09,9.75,7.04,38.13,Crop Rotation,233.26
+1995,India,Tamil Nadu,Corn,4.27,2264.28,7.07,2.72,9,42.69,47.35,45.28,86.68,Organic Farming,541.88
+2010,India,West Bengal,Barley,-3.97,2282.33,6.4,0.56,9,82.22,42.2,98.26,34.62,Crop Rotation,56.37
+2014,India,West Bengal,Fruits,25.69,1978.39,22.46,0.72,9,27.3,39.72,7.19,55.51,Water Management,171.57
+1992,India,West Bengal,Vegetables,0.05,2090.66,16.36,2.349,6,56.48,36.53,36.2,99.95,Water Management,745.1
+1993,India,Tamil Nadu,Coffee,4.35,328.66,1.63,1.602,5,29.71,1.15,14.62,47.55,No Adaptation,584.23
+2017,India,Maharashtra,Coffee,28.3,2294.46,24.49,3.348,9,30.7,12.36,23.34,35.83,Water Management,952.82
+2007,India,Maharashtra,Sugarcane,4.09,585.9,25.51,1.089,0,62.19,37.14,85.07,37.57,Crop Rotation,151.82
+2002,India,West Bengal,Sugarcane,32.67,1620.57,22.65,2.358,7,53.84,20.26,84.67,78.03,Crop Rotation,1150.22
+1999,India,Punjab,Sugarcane,14.05,2037.31,12.43,4,9,64.05,16.43,46.97,90.72,Drought-resistant Crops,418.55
+1994,India,West Bengal,Vegetables,32.4,212.57,5.16,3.015,4,23.19,8.82,32.36,42.4,No Adaptation,374.88
+2009,India,Tamil Nadu,Barley,17.22,1459.91,15.54,2.943,6,97.66,45.8,50.38,35.45,No Adaptation,1037.24
+1995,India,Punjab,Corn,23.5,389.23,0.66,0.918,4,89.31,5.59,26.68,87.04,No Adaptation,148.9
+2014,India,West Bengal,Fruits,29.11,1863.7,2.38,1.1,8,75.28,49.53,94.51,41.65,No Adaptation,311.44
+2020,India,Tamil Nadu,Wheat,29.3,834.96,13.15,2.31,1,44.95,33.14,78.84,87.47,Crop Rotation,383.25
+2021,India,Tamil Nadu,Barley,-0.81,271.7,19.63,2.322,0,38.58,12.55,67.88,82.29,Water Management,428.07
+1997,India,Maharashtra,Cotton,22.86,1698.64,7.52,1.7,1,88.95,27.71,56.12,80.47,No Adaptation,831.65
+2011,India,Punjab,Barley,8.89,2775.15,11.28,2.55,9,23.44,41.33,58.96,55.17,Drought-resistant Crops,641.09
+1992,India,West Bengal,Vegetables,15.97,1638.2,11.77,4.38,2,63.58,33.33,13.56,37.27,Drought-resistant Crops,1048.74
+2019,India,Tamil Nadu,Wheat,19.24,2818.89,9.36,3.49,9,10.6,40.88,76.01,85.49,Organic Farming,746.18
+1995,India,Tamil Nadu,Coffee,11.17,744.01,1.91,1.84,9,14.72,42.27,76.53,33.15,Organic Farming,274
+2010,India,Maharashtra,Soybeans,15.37,2236.33,24.45,3.573,1,94.58,35.24,61.11,42.31,Drought-resistant Crops,1276.83
+1991,India,Tamil Nadu,Sugarcane,6.68,2178.73,25.54,1.98,3,40.3,35.17,94.37,72.72,Drought-resistant Crops,767.22
+2009,India,Punjab,Fruits,30.43,2608.13,7,1.17,9,51.44,42.24,99.65,41.64,Crop Rotation,147.82
+2014,India,Maharashtra,Wheat,32.53,205.54,19.1,2.961,8,54.44,33.66,90.27,61.88,No Adaptation,463.87
+2014,India,Tamil Nadu,Coffee,10.76,2917.65,1.5,4.8,8,24.72,47.18,20.96,83.02,Crop Rotation,1278.13
+1991,India,Maharashtra,Barley,14.06,1707.41,22.61,4.05,2,34.9,40.58,67.97,30.4,Organic Farming,1727.33
+2018,India,West Bengal,Vegetables,24.11,782.55,17.95,1.485,5,54.61,15.34,91.22,87.39,Organic Farming,447.24
+2001,India,West Bengal,Rice,0.43,1531.41,11.87,1.46,10,14.69,44.09,77.82,78.35,Crop Rotation,706.49
+2008,India,Punjab,Vegetables,15.17,2280.09,15.54,1.917,10,89.15,34.4,53.07,85.37,No Adaptation,857.79
+2012,India,Tamil Nadu,Fruits,29.02,2032.93,4.1,1.25,3,36.04,31.9,72.15,87.12,Crop Rotation,350
+2019,India,Maharashtra,Coffee,22.97,1513.77,11.67,3.37,6,65.72,5.21,98.64,61.07,Crop Rotation,348.89
+2004,India,Punjab,Fruits,-1.46,1001.28,21.53,0.522,2,78.28,14.75,65.84,88.87,No Adaptation,146.1
+2013,India,Punjab,Cotton,25.57,2352.28,9.78,1.65,7,65.78,21.8,69.6,78.62,Drought-resistant Crops,344.96
+1995,India,West Bengal,Corn,7.57,536.25,25.74,2.502,7,11.93,23.14,29.26,38.27,No Adaptation,1044.81
+2010,India,Maharashtra,Soybeans,11.48,1833.56,23.84,3.438,1,92.83,48.1,73.76,81.02,Water Management,1499.41
+1992,India,Punjab,Soybeans,15.23,2871,11.81,2.5,3,28.53,10.49,28,67.46,Organic Farming,1235.33
+1992,India,Tamil Nadu,Fruits,18.35,2711.12,10.15,3.36,3,18.18,15.14,52.95,67.11,Drought-resistant Crops,1215.14
+1991,India,Punjab,Rice,15.05,2603.85,14.16,3.11,1,89.75,15.39,91.94,84.37,Organic Farming,1172.77
+2015,India,West Bengal,Wheat,15.47,2930.44,26.18,3.744,5,48.04,0.43,74.86,85.94,Organic Farming,1111.7
+1995,India,Maharashtra,Wheat,32.99,2031.79,29.86,2.952,1,55.88,19.72,30.35,92.22,No Adaptation,916.61
+2017,India,West Bengal,Rice,2.28,2258.67,11.86,1.14,10,93.59,25.32,71.9,74.34,No Adaptation,377.26
+2009,India,Punjab,Corn,0.5,1574.17,9.51,0.54,10,29.51,6.81,44.72,71.09,Crop Rotation,257.5
+2012,India,Tamil Nadu,Rice,0.77,2662.65,9.61,1,1,23.1,20.81,98.14,79.42,Drought-resistant Crops,403.65
+2012,India,Punjab,Coffee,13.05,601.38,19.38,4.104,0,56.72,45.91,52.41,34.44,Water Management,1991.76
+2006,India,Maharashtra,Barley,27.6,2251.54,28.49,1.854,4,82.49,15.48,27.68,61.07,Organic Farming,643.33
+2024,India,West Bengal,Fruits,33.99,1562.77,17.51,1.071,10,73.53,11.56,33.71,30.1,Organic Farming,331.85
+2016,India,Maharashtra,Vegetables,8.41,477.4,27.39,1.62,5,99,39.7,26.25,44.53,No Adaptation,718.03
+2019,India,Tamil Nadu,Soybeans,10.92,2560.13,19.27,2.313,7,66.78,36.01,68.27,38.41,No Adaptation,666.84
+1996,India,West Bengal,Cotton,4.59,1203.67,27.49,1.521,8,92.6,10.13,37.76,47.69,No Adaptation,198.88
+2022,India,Punjab,Fruits,28.63,2859.89,25.92,2.52,4,43.99,44.84,6.19,65.24,No Adaptation,279.48
+2017,India,Maharashtra,Soybeans,22.13,1418.55,18.06,3.339,2,87.61,11.03,57.77,56.37,Drought-resistant Crops,358.17
+1990,India,Punjab,Vegetables,19.37,2903.4,15.42,3.33,1,52.22,33.24,47.88,40.36,Organic Farming,1008.34
+2024,India,Punjab,Cotton,34.43,1688.22,27.84,0.774,8,39.68,25.01,49.69,79.13,Crop Rotation,170.29
+2000,India,West Bengal,Soybeans,33,742.94,14.82,3.94,10,92.85,43.05,17.8,39.66,No Adaptation,451.97
+2022,India,Tamil Nadu,Cotton,21.95,2465.67,2.86,2.59,10,51.17,31.43,91.32,89.48,Crop Rotation,473.5
+1999,India,West Bengal,Cotton,27.88,1027.21,4.27,3.08,6,90.36,19.43,27.58,66.7,Organic Farming,1155.98
+1990,India,Tamil Nadu,Soybeans,24.43,1191.16,1.37,1.3,8,12.78,34.8,40.96,61.55,Organic Farming,236.13
+1990,India,Tamil Nadu,Corn,22.93,1894.74,7.3,2.21,8,74.87,42.63,4.93,80.33,Water Management,542.77
+1993,India,West Bengal,Sugarcane,5.07,1476.48,27.48,2.691,7,74.2,16.67,18.13,46.28,No Adaptation,989.17
+2014,India,Punjab,Wheat,5.43,1137.39,14.52,2.36,8,39.83,41.88,60.65,54.65,Drought-resistant Crops,288.79
+2004,India,West Bengal,Coffee,18.8,2152.37,24.33,1.386,8,77.8,22.07,77.23,75.37,Drought-resistant Crops,339.58
+2013,India,Tamil Nadu,Vegetables,28.55,517.65,20.84,0.927,1,99.51,19.58,36.18,33.13,Drought-resistant Crops,121.5
+1996,India,Tamil Nadu,Rice,8.67,977.92,23.19,1.854,10,58.62,33,4.55,31.16,Drought-resistant Crops,204.08
+2001,India,West Bengal,Rice,1.9,722.54,15.46,1.593,0,51.13,0.72,97.98,82.41,Water Management,478.97
+1994,India,West Bengal,Rice,29.69,1293.54,28.03,2.52,1,46.52,11.1,27.6,85.41,No Adaptation,1042.64
+2009,India,Maharashtra,Barley,3.03,1364.67,25.08,2.106,5,85.9,17.39,27.24,77.78,Water Management,1009.83
+1991,India,Tamil Nadu,Corn,-4.33,1300.8,15.63,1.773,7,73.62,4.25,78.64,97.25,No Adaptation,427.83
+2017,India,Punjab,Soybeans,-1.9,2471.27,25.73,2.484,1,27.38,1.39,9.24,83.22,No Adaptation,290.5
+2012,India,Tamil Nadu,Coffee,18.91,2850.46,2.53,3.71,2,64.96,32.34,44.53,38.37,Organic Farming,1356.92
+2005,India,West Bengal,Rice,24.89,1130.54,21.62,1.584,0,90.18,39.19,42.77,70.88,No Adaptation,167.13
+2024,India,Punjab,Cotton,-1.25,1241.33,18,0.81,4,14.62,28.22,10.06,77.37,Drought-resistant Crops,298.39
+2006,India,West Bengal,Fruits,26.96,1428.16,28.8,3.339,5,48.74,22.47,54.75,37.13,Crop Rotation,1391.46
+1998,India,Punjab,Wheat,18.85,660.44,3.61,4.4,10,55.02,37.57,84.85,61.01,Drought-resistant Crops,2151.74
+1992,India,Punjab,Corn,27.33,1899.37,18.23,1.872,8,94.77,23.65,46.93,75.9,Water Management,613.81
+2000,India,Maharashtra,Soybeans,32.98,1241.47,16.54,1.332,2,51.21,9.06,94.4,66.11,Water Management,248.63
+1992,India,Maharashtra,Wheat,3.48,2033.66,28.47,1.287,0,53.24,24.41,40.44,45.84,Water Management,459.91
+2022,India,Punjab,Coffee,2.99,920.3,15.94,0.918,9,63.62,4.56,42.69,41.47,Water Management,204.1
+1997,India,Maharashtra,Cotton,-0.89,1016.89,28.22,0.693,10,80.7,31.91,7.26,67.28,No Adaptation,216.7
+2014,India,Tamil Nadu,Fruits,31.08,2375.34,27.85,1.8,5,60.6,8.79,44.68,72.04,No Adaptation,496.73
+1994,India,Punjab,Cotton,15.38,1752.64,26.41,2.934,0,65.66,5.61,62.03,40.48,Organic Farming,418.52
+2003,India,Punjab,Wheat,23.84,2867.72,0.79,2.65,10,33.73,43.28,50.77,59.26,Drought-resistant Crops,278.28
+2020,India,Tamil Nadu,Corn,12.64,631.91,11.96,2.95,4,50.4,48.55,69.32,33.41,Drought-resistant Crops,1082.3
+1994,India,Punjab,Coffee,34.85,1230.78,16.24,3.492,10,50.71,4.64,37.54,96.95,Organic Farming,1647.97
+2011,India,Tamil Nadu,Wheat,13.72,854.35,18.42,1.773,0,56.56,40.75,9.5,93.13,Drought-resistant Crops,204.15
+2010,India,Tamil Nadu,Coffee,7.87,1955.66,3.34,1.09,3,34.03,42.85,78.72,42.06,No Adaptation,149.83
+1994,India,Maharashtra,Vegetables,21.24,2897.47,2,3.48,4,78.94,28.97,95.22,32.25,Water Management,537.68
+2006,India,Maharashtra,Soybeans,0.87,709.34,7.6,0.61,5,28.77,9.83,43.84,85.29,Water Management,223.24
+2024,India,Tamil Nadu,Corn,3.06,503.92,2.13,2.62,4,76.56,33.41,25.71,59.29,Crop Rotation,1159.86
+2001,India,Punjab,Barley,12.1,2848.98,19.94,4.095,3,74.94,14.06,87.96,73.48,Drought-resistant Crops,633.21
+1992,India,Punjab,Corn,30.26,1943.98,9.13,3.22,2,99.28,23.8,74.34,54.04,Crop Rotation,1075.8
+2015,India,Tamil Nadu,Cotton,4.56,2965.15,26.61,2.412,0,50.78,40.47,99.05,85.31,Drought-resistant Crops,884.27
+2001,India,Maharashtra,Cotton,12.86,920.44,25.23,2.376,7,96.43,15.84,67.06,41.07,Water Management,457.72
+1999,India,Maharashtra,Fruits,27.01,1161.47,20.91,2.754,2,47.2,47.28,54.68,96.58,No Adaptation,1192.53
+2008,India,Tamil Nadu,Wheat,28.39,1321.79,9.12,3.79,2,89.43,46.7,75.2,59.47,Crop Rotation,419.28
+2024,India,Punjab,Vegetables,23.91,1806.7,1.43,2.69,0,26.61,20.94,11.07,94.81,Drought-resistant Crops,757.02
+2006,India,Maharashtra,Barley,5.56,1210.16,2.4,2.62,1,86.19,40.93,43.37,32.39,No Adaptation,556.33
+1992,India,Punjab,Cotton,1.9,2362.82,28.11,0.729,3,70.47,12.62,32,32.05,Crop Rotation,136.41
+1997,India,Punjab,Corn,12.89,2548.41,13.68,1.99,0,44.59,25.9,54.7,75.45,No Adaptation,799.93
+2003,India,Maharashtra,Wheat,-1.22,399.11,23.37,0.954,5,67.59,37.99,90.18,93.49,Organic Farming,432.97
+1995,India,Punjab,Fruits,30.8,1866.51,18.8,3.078,2,21.19,49.07,54.41,70.67,Drought-resistant Crops,318.72
+2016,India,Maharashtra,Barley,15.47,1657.83,6.01,4.77,1,17.08,44.13,61.89,61.39,No Adaptation,1045.25
+1999,India,West Bengal,Coffee,12.49,547.38,25.91,3.006,5,44.12,27.72,4.45,79.82,No Adaptation,632.44
+2003,India,Maharashtra,Rice,18.57,921.28,8.52,2.49,6,27.25,17.16,19.03,99.51,Organic Farming,767.49
+2020,India,West Bengal,Corn,23.5,919.07,9.7,2.32,2,10.66,21.54,77.56,56.99,Crop Rotation,545.06
+2000,India,Maharashtra,Vegetables,20.95,1986.89,16.58,1.224,10,19.08,42.75,32.16,94.2,Water Management,300.51
+2008,India,Tamil Nadu,Sugarcane,11.07,1613.86,15.78,4.356,9,11.16,32.57,65.05,57.66,No Adaptation,1661.16
+2012,India,West Bengal,Sugarcane,17.97,2749.07,4.86,3.41,6,25.32,48.26,39.87,89.33,No Adaptation,628.16
+2024,India,Maharashtra,Sugarcane,28.04,2777.97,1.44,3.75,6,95.66,47.42,96.5,90.47,No Adaptation,1216.51
+2021,India,Punjab,Soybeans,17.4,2906.88,10.1,4.13,5,21.22,32.22,18.52,38.43,Drought-resistant Crops,919.24
+2006,India,West Bengal,Wheat,6.93,2321.81,9.75,0.97,4,46.28,48.06,18.82,62.91,Water Management,219.64
+2017,India,Tamil Nadu,Corn,16.55,1237.85,14.94,3.41,6,67.58,22.83,61.33,51.81,No Adaptation,1658.53
+1992,India,Maharashtra,Fruits,20.31,2061.4,11.85,3.8,4,95.95,37,7.74,85.49,Organic Farming,731.82
+1999,India,West Bengal,Rice,31.94,749.95,2.09,1.82,7,45.39,0.29,8.97,90.79,Organic Farming,800.81
+2020,India,Punjab,Rice,0.94,1409.52,5.6,1.53,5,12.61,1.92,25.54,82.78,Water Management,432.47
+2021,India,West Bengal,Fruits,24.15,1431.9,15.5,0.792,10,95.2,21.02,22.88,55.02,Crop Rotation,355.5
+2006,India,Punjab,Sugarcane,30.04,2936.51,0.71,1.55,4,29.09,41.69,75.08,62.85,Drought-resistant Crops,716.27
+1990,India,Maharashtra,Wheat,16.36,1448.12,0.79,2.09,5,40.86,19.41,77.64,76.05,Drought-resistant Crops,475.95
+2017,India,Maharashtra,Rice,26.65,297.01,6.66,3.429,4,18.24,25.12,52.69,48.45,Drought-resistant Crops,949.54
+2004,India,Tamil Nadu,Soybeans,30.1,2081.54,18.75,3.42,2,48.36,12.81,39.6,81.87,No Adaptation,1484.54
+2011,India,West Bengal,Barley,15.66,2700.34,5.48,1.87,0,23.34,24.72,5.25,51.14,Water Management,359.28
+1998,India,West Bengal,Fruits,25.67,2510.93,10.83,2.76,2,71.24,42.17,42.05,64.3,No Adaptation,1305.07
+2006,India,West Bengal,Rice,33.96,1343.47,11.84,3.52,2,39.17,39.95,84.82,43.36,No Adaptation,880.52
+1996,India,West Bengal,Soybeans,28.34,1697.09,26.64,0.837,1,23.48,13.11,2.2,40.79,Crop Rotation,416.57
+2003,India,Maharashtra,Wheat,29.58,1441.1,22.89,1.602,6,54.33,46.51,41.82,78.16,Organic Farming,378.46
+2005,India,Maharashtra,Barley,-2.78,1897.44,24.28,2.682,0,62.77,4.85,27.86,66.46,Drought-resistant Crops,557.32
+1996,India,Tamil Nadu,Soybeans,-4.48,1493.07,21.21,0.567,5,11.34,12.21,9.11,48.61,No Adaptation,91.77
+2013,India,Punjab,Rice,11.94,394.04,15.53,4.059,6,57.87,10.05,89.07,87.92,No Adaptation,954.85
+1992,India,Punjab,Barley,17.91,2597.89,27.46,2.34,4,78.74,38.51,97.25,30.23,Drought-resistant Crops,768.04
+2015,India,Maharashtra,Vegetables,21.76,202.76,18.9,1.089,2,29.45,28.27,87.16,31.1,Organic Farming,408.66
+1995,India,Punjab,Barley,23.93,2063.59,23.42,1.98,1,88.23,18.19,48.84,92.61,No Adaptation,903.57
+2011,India,Maharashtra,Rice,11.02,992.46,3.86,1.63,5,31.24,2.84,64.96,37.3,Crop Rotation,630.1
+2013,India,West Bengal,Cotton,19.12,1106.47,22.76,2.187,7,32.61,44.62,75.87,39.1,Drought-resistant Crops,587.49
+2003,India,Tamil Nadu,Sugarcane,34.59,1495.7,18.11,2.772,0,13.98,34.82,22.66,32.28,Crop Rotation,832.69
+2021,India,Punjab,Barley,-3.29,556.02,2.03,2.49,7,50.79,9.77,76.74,98.24,Crop Rotation,719.53
+2023,India,Tamil Nadu,Corn,23.65,2372.85,20.04,1.728,7,91.12,36.36,35.66,75.18,Water Management,565.81
+2019,India,West Bengal,Coffee,6.29,1133.06,11.44,2.37,6,48.1,0.45,77.01,40.96,Crop Rotation,733.27
+2017,India,Maharashtra,Wheat,6.89,1805.67,27.78,2.007,4,40.29,14.06,6.89,31.56,Drought-resistant Crops,410.04
+1992,India,Maharashtra,Rice,13.67,302.04,8.73,3.321,3,67.26,8.54,96.05,43.9,Water Management,563.1
+1994,India,Punjab,Vegetables,20.93,2493.1,29.51,1.233,6,15.63,34.18,16.79,88.34,Drought-resistant Crops,424.74
+2019,India,West Bengal,Corn,-2.67,1888.15,25.56,0.594,8,27.77,25.78,13.72,82.04,Organic Farming,137.36
+2016,India,Tamil Nadu,Fruits,34.26,2154.55,12.88,2.68,2,49.34,7.4,59.07,87.53,No Adaptation,1321.97
+1992,India,Tamil Nadu,Soybeans,7.47,600.5,18.23,0.945,4,38.98,13.06,69.47,84.4,Water Management,335.56
+2008,India,Tamil Nadu,Barley,15.51,1911.74,29.87,3.969,10,71.09,0.78,19.68,63.65,Crop Rotation,921.78
+2007,India,Maharashtra,Soybeans,15.44,2778.33,6.69,2.22,3,21.05,8.57,86.83,91.5,Drought-resistant Crops,327.04
+2013,India,Punjab,Cotton,15.01,1740.11,28.88,3.69,7,59.09,26.68,94.26,48.25,No Adaptation,456.39
+2014,India,West Bengal,Vegetables,24.84,597.92,19.49,1.98,7,54.74,30.4,60.04,30.59,Water Management,480.98
+1992,India,Punjab,Cotton,33.5,2033.3,11.04,0.9,2,76.61,15.27,62.06,94.77,Crop Rotation,254.28
+2021,India,Punjab,Vegetables,-3.63,1194.74,13.25,1.12,7,50.78,11.46,15.09,96.15,Drought-resistant Crops,292.05
+1996,India,West Bengal,Sugarcane,0.88,2672.09,23.82,2.115,1,73.45,28.52,80.67,34.22,Drought-resistant Crops,535.92
+1998,India,Maharashtra,Barley,2.25,1160.73,8.24,2.08,1,65.27,3.06,5.47,61.85,Organic Farming,395.51
+1995,India,Punjab,Soybeans,30.38,555.33,5.31,1.33,6,82.27,36.64,23.96,41.55,Organic Farming,617.82
+2023,India,Tamil Nadu,Sugarcane,1.83,1530.36,11.55,2.75,3,44.76,44.76,20.17,75.08,Drought-resistant Crops,804.79
+1994,India,West Bengal,Rice,2.48,2722.96,17.96,1.737,8,93.89,44.66,95.58,65.29,Drought-resistant Crops,753.51
+2008,India,West Bengal,Soybeans,-1.7,266.84,9.02,1.737,2,61.07,41.98,92.62,69.05,No Adaptation,296.19
+2023,India,West Bengal,Wheat,9.45,1501.52,11.19,1.05,9,95.35,16.37,2.18,87.57,Drought-resistant Crops,481.63
+1997,India,Tamil Nadu,Soybeans,16.28,2157.76,29.19,3.465,7,15.87,9.9,50.01,49.04,Crop Rotation,1427.94
+2023,India,Punjab,Wheat,25.24,1286.6,17.36,1.287,0,38.65,31.41,1.93,68.18,Organic Farming,223.01
+2006,India,Punjab,Barley,29.54,758.21,13.25,2.82,1,87.31,35.74,60.05,92.16,Drought-resistant Crops,554.45
+1991,India,Tamil Nadu,Sugarcane,17.8,2333.03,11.49,2.63,5,77.06,22.16,5.18,83.87,No Adaptation,603.91
+2008,India,Punjab,Soybeans,15.27,1729.28,7.87,1.99,4,39.86,27.55,33.29,44.56,Organic Farming,503.78
+1993,India,Tamil Nadu,Vegetables,13.5,2624.86,17.49,2.916,7,14.95,28.41,44.27,68.24,No Adaptation,297.94
+2001,India,West Bengal,Barley,32.73,2219.82,22.52,3.204,3,78.62,6,42.13,65.45,No Adaptation,1416.49
+2000,India,West Bengal,Barley,30.76,440.93,21.69,2.547,8,98.62,9.02,45.99,70.21,Crop Rotation,1175.5
+2002,India,West Bengal,Vegetables,-4.87,2159.07,17.63,0.765,9,95.73,27.86,47.65,92.34,Crop Rotation,115.75
+1997,India,West Bengal,Fruits,26.81,1664.2,12.19,2.19,2,63.11,26.97,20.62,58.19,Crop Rotation,642.28
+1997,India,Punjab,Soybeans,19.89,1966.89,1.89,1.92,6,10.57,49.42,25.72,31.88,Organic Farming,325.32
+1999,India,West Bengal,Rice,-3.9,634.46,20.04,2.376,3,60.14,18.76,26.09,56.67,No Adaptation,1014.74
+2016,India,Maharashtra,Fruits,6.23,302.22,19.39,0.945,6,55.47,8.86,64.56,40.93,Organic Farming,421.91
+1994,India,Punjab,Coffee,4.66,1763.35,22.61,0.684,6,72.58,20.9,10.46,80.68,Crop Rotation,196.87
+1996,India,West Bengal,Sugarcane,0.33,1239.78,0.68,0.7,7,20.97,31.43,40.25,62.34,Water Management,345.52
+2012,India,West Bengal,Fruits,1.38,770.07,18.02,1.449,8,31.23,45.02,91.56,53.41,Crop Rotation,224.81
+1998,India,Punjab,Fruits,-2.08,2476.59,7.14,1.86,1,67.42,36.58,48.01,48.72,Crop Rotation,324.15
+1991,India,Maharashtra,Fruits,25.74,2980.09,1.65,1.32,1,71.88,0.53,64.62,72.85,Water Management,306.73
+1990,India,Tamil Nadu,Cotton,2.25,1692.05,2.23,2.76,2,96.7,45.74,66.53,74.8,Crop Rotation,1083
+1994,India,Tamil Nadu,Corn,0.94,1903.96,23.48,1.845,4,14.36,42.95,20.02,39.66,Organic Farming,808.99
+2007,India,Maharashtra,Vegetables,1.85,975.44,0.53,1.65,9,35.38,20.48,48.64,61.44,Drought-resistant Crops,544.01
+2021,India,Punjab,Vegetables,27.84,1461.64,28.36,3.429,5,64.14,6.73,13.26,50.97,Drought-resistant Crops,849.11
+2022,India,Punjab,Barley,13.35,1687.82,24.08,4.401,4,35.8,9.09,44.95,88.66,No Adaptation,2144.07
+2019,India,Maharashtra,Wheat,17.13,1406.47,8.24,3.24,0,18.02,37.95,32.09,85.26,Water Management,789.67
+2020,India,Punjab,Sugarcane,7.66,267.14,26.89,2.295,6,27.79,5.88,89.68,55.22,Organic Farming,1040.46
+1995,India,West Bengal,Soybeans,28.75,2897.22,4.56,1.98,8,62.28,45.94,83.3,90.69,No Adaptation,613.87
+2008,India,Punjab,Soybeans,21.5,1927.82,27.29,3.06,7,68.1,48.39,4.1,56.07,Crop Rotation,828.21
+2013,India,Tamil Nadu,Rice,17.22,1153.27,25.2,2.736,5,59.28,23.48,65.34,92.56,Crop Rotation,996.9
+1993,India,Punjab,Vegetables,-0.9,1932.56,25.98,2.268,3,46.27,16.05,92.56,55.2,No Adaptation,716.49
+2022,India,Tamil Nadu,Corn,3.65,1393.29,18.97,2.403,3,48.56,40.72,38.88,60.44,Drought-resistant Crops,546.87
+1992,India,West Bengal,Cotton,8.94,2141.28,0.67,2.08,7,19.75,13.12,17.21,77.24,Organic Farming,906.93
+2005,India,Tamil Nadu,Cotton,8.25,1159.84,16.05,1.917,1,22.52,29.94,73.19,54.98,No Adaptation,341.39
+2022,India,Punjab,Vegetables,23.24,2273.05,14.8,2.8,2,11.76,22.9,98.04,37.69,Organic Farming,947.47
+1995,India,West Bengal,Wheat,24.68,2067,10.96,1.57,7,46.22,44.1,93.88,95.18,Drought-resistant Crops,698.82
+2009,India,Tamil Nadu,Barley,20.36,949.14,23.1,3.537,0,65.34,6.29,21.64,30.72,Crop Rotation,1517.06
+2019,India,Punjab,Coffee,-3.72,1456.16,2.36,0.85,10,58.93,18.48,63.19,96.59,Water Management,223.57
+2011,India,Maharashtra,Soybeans,-0.5,970.53,16.12,2.097,0,12.87,46.53,66.19,85.11,Crop Rotation,676.17
+2010,India,Tamil Nadu,Fruits,-2.25,846.25,24.77,1.485,7,70.54,28.59,81.23,65.24,Organic Farming,218.86
+2005,India,Maharashtra,Cotton,16.46,395.99,17.54,2.565,4,28.8,49.95,16.53,65.25,Drought-resistant Crops,479.56
+2019,India,Maharashtra,Wheat,31.3,1601.16,2.93,1.13,7,16.14,2.7,6.42,38.51,Drought-resistant Crops,438.12
+2007,India,Punjab,Cotton,-0.64,2459.28,4.55,2.19,1,16.33,22.31,73.42,97.38,Organic Farming,736.33
+2001,India,Tamil Nadu,Fruits,14.05,1544.92,6.05,2.71,9,32.43,0.62,83.86,39.45,Water Management,295.51
+2003,India,Maharashtra,Coffee,16.07,645.46,19.16,3.546,2,15.07,3.9,77.82,73.72,Crop Rotation,1047.77
+2005,India,Punjab,Sugarcane,14.77,1969.38,17.78,4.005,4,45.24,37.43,2.67,90.44,Crop Rotation,1547.08
+2018,India,West Bengal,Rice,2.74,497.31,8.34,0.846,9,13.09,19.54,43.32,52.77,Drought-resistant Crops,311.28
+2020,India,Punjab,Fruits,18,2399.84,13.69,3.15,6,13.53,16,86.63,52.9,No Adaptation,704.27
+2023,India,Punjab,Sugarcane,33.64,2879.63,0.98,3.73,4,80.15,9.98,24.58,71.75,Organic Farming,1431.06
+2017,India,Maharashtra,Vegetables,20.76,1056.95,27.63,3.024,2,24.1,48.43,25.13,57.28,Water Management,698
+2018,India,West Bengal,Rice,26.93,2535.88,20.92,1.764,9,64.51,20.07,65.38,76.11,No Adaptation,270.4
+2007,India,Maharashtra,Rice,24.87,1143.43,1.92,1.64,8,14.18,49.16,95.65,65.29,Drought-resistant Crops,690.47
+1998,India,Maharashtra,Sugarcane,-3.47,1650.09,17.44,0.828,9,15.6,29.87,0.46,88.71,Crop Rotation,372.59
+2021,India,West Bengal,Sugarcane,14.17,1708.89,24.42,3.312,5,24.94,37.24,95.1,51.06,Crop Rotation,1391.61
+1998,India,Punjab,Soybeans,29.11,2264.76,9.45,3.93,1,72.78,49.17,25.78,98.81,Crop Rotation,583.89
+2022,India,West Bengal,Wheat,12.81,1004.6,27.34,2.403,9,11.79,23.76,48.44,34.84,Drought-resistant Crops,1060.28
+2015,India,Maharashtra,Corn,23.37,2743.05,7.7,2.91,9,50.6,18.27,71.8,30.43,No Adaptation,924.69
+1991,India,West Bengal,Corn,-3.72,629.15,27.51,2.457,10,43.74,10.77,23.99,53.57,Organic Farming,1044.71
+2001,India,Tamil Nadu,Fruits,32.87,578.54,5.34,3.78,6,86.06,42.96,74.06,49.87,Crop Rotation,671.67
+2008,India,West Bengal,Rice,16.26,911.22,13.09,4.58,1,66.66,37.44,22.44,61.48,Water Management,538.35
+2011,India,Tamil Nadu,Barley,31.06,229.67,2.12,2.079,1,20.49,4.04,8.69,41.72,No Adaptation,919.15
+2011,India,West Bengal,Vegetables,-1.34,2804.29,19.04,2.214,4,75.55,48.19,60.33,80.5,Water Management,632.87
+2003,India,West Bengal,Corn,5.19,2944.95,6.76,2.09,7,11.15,36.74,68.76,63.56,Organic Farming,644.34
+2004,India,Punjab,Corn,-2.91,1561.55,11.89,1.66,4,75.89,6.42,11.53,55.01,Organic Farming,244.81
+2009,India,West Bengal,Rice,29.08,1945.13,2.81,3.22,3,84.68,8.06,34.97,35.24,Crop Rotation,938.77
+1991,India,Maharashtra,Barley,7.27,237.07,28.39,2.529,2,35.12,42.69,86.16,53.01,No Adaptation,1256.22
+2023,India,Maharashtra,Rice,18.74,956.86,4.03,1.51,1,88.87,40.27,49.03,94.56,Water Management,519.74
+1997,India,West Bengal,Vegetables,8.63,655.53,21.66,1.134,5,37.55,29.92,41.11,79.9,Crop Rotation,224.55
+1995,India,West Bengal,Cotton,25.69,491.81,13.78,2.619,3,29.53,42.26,30.11,46.64,Organic Farming,467.32
+2013,India,Punjab,Coffee,19.92,1257.54,11.39,3.92,8,48.4,38.98,36.2,43.79,Drought-resistant Crops,1346.98
+1993,India,West Bengal,Fruits,0.8,2656.93,19.82,2.7,8,20.51,22.84,94.42,43.07,No Adaptation,540.51
+1993,India,Maharashtra,Vegetables,2.36,1487.64,12.86,1.53,7,47.93,12.64,67.32,72.69,Drought-resistant Crops,587.54
+2000,India,West Bengal,Sugarcane,32.28,2616.73,16.33,3.141,8,99.94,43.95,76.36,58.25,Water Management,1428.53
+1994,India,West Bengal,Rice,6.96,2785.24,17.95,2.205,5,98.95,42.41,15.45,33.74,Drought-resistant Crops,383.39
+2024,India,Punjab,Coffee,14.89,1152.02,3.72,4.76,6,89.44,42.62,75.25,37.44,No Adaptation,1915.27
+2019,India,Punjab,Wheat,-0.91,2593.28,7.27,1.29,0,98.51,42.92,85.84,39.42,Organic Farming,465.88
+2004,India,Punjab,Corn,-3.45,1159.38,4.97,1.39,3,98.67,2.79,59.95,64.92,No Adaptation,639.76
+2013,India,Punjab,Cotton,-4.07,2164.41,11.5,1.3,7,93.76,41.82,47.72,85.78,Drought-resistant Crops,390.35
+2000,India,Tamil Nadu,Sugarcane,32.92,1970.08,23.22,2.151,8,82.19,2.39,80.8,38.58,Water Management,969.12
+2023,India,Tamil Nadu,Sugarcane,18.11,1114.81,16.41,3.258,7,67.85,46.27,85.53,43.61,No Adaptation,1317.27
+2006,India,Tamil Nadu,Cotton,33.25,1011.53,5.81,1.27,0,75.22,28.98,70.44,37.14,Crop Rotation,398.13
+2018,India,Tamil Nadu,Barley,4.77,856.65,21.85,1.953,8,74.23,25.73,23.32,76.97,Drought-resistant Crops,617.29
+2010,India,Tamil Nadu,Corn,21.95,593.96,8.49,3.73,1,47.38,26.29,34.6,92.81,No Adaptation,851.64
+2009,India,Punjab,Rice,31.96,2556.22,14.19,3.81,1,31.95,41.25,28.54,90.28,Crop Rotation,451.41
+1993,India,West Bengal,Cotton,4.37,2101.37,12.25,1.13,5,98.69,26.35,1.02,49.42,Drought-resistant Crops,155.03
+2018,India,Punjab,Vegetables,14.68,2403.86,3.3,2.89,0,65.05,16.26,48.79,93.05,Drought-resistant Crops,1401.11
+2000,India,Tamil Nadu,Fruits,9.46,653.52,18.21,0.9,7,25.56,17.6,98.43,30.81,No Adaptation,288.35
+2022,India,Punjab,Sugarcane,19.68,1836.46,0.67,3.15,9,54.76,49.19,61.87,31.76,Organic Farming,1129.47
+2013,India,Maharashtra,Corn,13.93,1027.19,9.18,2.01,5,40.41,1.03,27.01,98.05,Organic Farming,516.3
+2006,India,Maharashtra,Corn,18.96,2793.41,28.26,3.654,9,18.27,1.32,95.4,50.08,Water Management,687.79
+2016,India,Punjab,Rice,7.17,1120.67,29.26,1.71,6,47.4,8.74,95.68,81.94,Drought-resistant Crops,614.83
+2021,India,West Bengal,Coffee,26.92,1431.54,9.11,3.31,1,67.78,42.42,22.63,36.87,Crop Rotation,961.59
+1999,India,Maharashtra,Soybeans,-2.18,2975.38,23.65,0.531,1,29.96,14.2,10.46,52.69,Organic Farming,217.56
+2002,India,Punjab,Sugarcane,26.76,2969.83,21.34,0.99,3,21.23,3.39,87.49,72.01,Crop Rotation,224.61
+1996,India,West Bengal,Rice,28.19,2934.88,6.82,2.64,9,61.91,24.73,53.28,45.1,Crop Rotation,1054.09
+2021,India,Tamil Nadu,Coffee,1.67,2571.04,10.84,0.78,0,71.41,36.3,41.12,43.94,Water Management,283.65
+2021,India,West Bengal,Fruits,9.78,571.29,26.44,1.035,6,71.14,30.21,51.18,99.86,Organic Farming,281.88
+2003,India,Punjab,Fruits,1.2,2069.58,25.26,1.107,2,90.15,3.26,25.63,63.9,Organic Farming,231.97
+2006,India,West Bengal,Vegetables,25.33,2968.53,15.45,3.132,2,98.52,10.85,52.45,74.97,Organic Farming,539.41
+2005,India,Punjab,Corn,25.39,2861.44,23.27,1.413,8,75.16,23.52,2.16,60.56,Water Management,421.02
+1999,India,Punjab,Coffee,-0.79,248.53,8.51,0.981,3,23.88,42.09,73.12,56.08,Drought-resistant Crops,392.48
+2012,India,West Bengal,Cotton,6.7,1213.32,15.52,1.53,7,84.92,47.88,12.22,55.68,Drought-resistant Crops,694.3
+1998,India,Punjab,Vegetables,21.91,1399.78,2.42,1.94,8,10.11,9.22,67.27,50.58,Water Management,375.91
+2019,India,Maharashtra,Cotton,9.31,2548.23,22.27,0.936,4,15.74,23.63,66.95,48.2,Water Management,95.8
+2023,India,Maharashtra,Sugarcane,14.27,2954.33,2.39,1.87,5,15.04,38.84,56.65,81.96,Drought-resistant Crops,763.24
+1997,India,West Bengal,Rice,23.86,2539.83,2.42,1.88,9,71.96,47.03,14.43,91.98,Crop Rotation,214.53
+1994,India,Maharashtra,Corn,34.28,2248.58,8.89,2.99,3,39.85,36.21,8.95,71.65,Water Management,1247.44
+2017,India,Maharashtra,Coffee,31.93,532.64,21.41,1.044,0,62.51,22.49,99.79,61.09,Water Management,519.1
+1995,India,Maharashtra,Cotton,-0.4,2788.93,16.98,0.666,9,55.32,49.46,8.36,98.18,Crop Rotation,266.42
+2023,India,Punjab,Soybeans,31.59,1879.14,15.02,0.855,1,43.42,4.18,66.02,91.63,Water Management,356.66
+2005,India,Tamil Nadu,Rice,-2.77,285.81,13.77,2.592,8,22.99,37.37,97.71,47.9,Crop Rotation,417.37
+2019,India,Punjab,Cotton,27.86,2996.7,13.97,2.75,9,41.14,46.13,79.5,52.51,Organic Farming,413.5
+1990,India,Maharashtra,Cotton,8.34,1431.33,15.11,1.359,7,51.81,43.65,2.97,53.76,Organic Farming,361.27
+2003,India,Tamil Nadu,Corn,19.87,1335.61,21.82,2.286,8,54.8,1.57,48.79,45,No Adaptation,457.37
+2004,India,Punjab,Barley,27.62,1698.53,26.18,3.393,1,41.33,20.01,75.75,83.6,No Adaptation,560.64
+2016,India,West Bengal,Cotton,19.28,1673.75,24.72,3.375,2,31.43,4.59,26.64,51.92,Organic Farming,1252.83
+2024,India,West Bengal,Soybeans,8.58,1703.43,18.96,1.224,2,45.64,28.04,17.99,60.84,No Adaptation,123.53
+2008,India,Tamil Nadu,Rice,8.41,1293.21,9.83,1.04,3,69.54,5.35,73.78,30.81,Organic Farming,212.94
+2004,India,West Bengal,Barley,26.84,2540.63,20.2,0.765,10,63.61,39.71,51.17,30.66,Crop Rotation,329.81
+2015,India,Punjab,Fruits,33.75,386.13,11.73,2.691,9,82.09,12.23,9.27,56.61,Drought-resistant Crops,1105.58
+1990,India,Maharashtra,Wheat,16.29,963.43,11.81,1.63,10,26.32,22.06,14.27,47.05,No Adaptation,205.83
+1994,India,West Bengal,Sugarcane,-1.96,1415.42,16.72,1.809,9,68.96,47.98,36.89,83.62,Water Management,639.2
+2006,India,Maharashtra,Vegetables,29.94,614.42,7.86,2.87,4,22.3,28.1,7.99,74.44,Organic Farming,512.35
+2000,India,West Bengal,Corn,31.64,269.76,26.32,0.783,2,52.18,48.33,32.91,60.93,Organic Farming,340.98
+2011,India,Punjab,Coffee,7.8,454.64,21,0.45,8,44.88,26.45,49.56,83.97,No Adaptation,189.53
+2010,India,Tamil Nadu,Cotton,31.79,421.91,20.75,1.386,8,17.12,29.38,18.74,81.09,Drought-resistant Crops,329.94
+2023,India,Punjab,Barley,5.34,286.49,24.96,1.845,6,55.74,8.41,84.49,61.58,Water Management,406.24
+2019,India,Tamil Nadu,Coffee,12.44,2300.43,24.86,2.151,9,79.1,5.83,93.07,95.47,No Adaptation,805.37
+1993,India,Tamil Nadu,Sugarcane,16.35,1511.86,5.37,4.19,8,10.61,42.1,77.86,70.39,Crop Rotation,1229.29
+2024,India,West Bengal,Vegetables,12.88,2513.63,11.45,4.58,7,98.51,15.11,93.91,56.84,Drought-resistant Crops,1191.47
+2022,India,West Bengal,Sugarcane,5.75,2173.17,29.15,2.187,0,85.43,33.33,59.93,37.53,Organic Farming,923.47
+2009,India,Punjab,Fruits,21.04,2872.17,10.56,3.14,5,75.9,44.47,33.49,90.84,Water Management,775.06
+1991,India,Maharashtra,Fruits,-2.82,2041.6,2.7,2.94,8,67.72,4.95,39.26,69.86,Crop Rotation,1324.72
+2001,India,West Bengal,Barley,21.96,1177.96,20.45,1.728,3,52.82,1.28,45.74,79.52,Crop Rotation,466.81
+2011,India,Tamil Nadu,Soybeans,29.99,426.81,24.09,2.79,5,12.3,8.01,3.38,57.93,Water Management,978.7
+2016,India,Tamil Nadu,Wheat,11.92,530.14,25.51,2.385,0,13.03,8.43,3.92,59.97,Water Management,757.48
+2019,India,West Bengal,Wheat,6.54,1232.89,9.43,0.77,4,29.82,37.6,84.55,84.45,Drought-resistant Crops,80.48
+2019,India,Maharashtra,Coffee,25.55,276.15,13.67,3.249,1,84.86,11.19,33.23,95.89,Organic Farming,901.83
+1991,India,Punjab,Soybeans,-3.53,1515.32,17.09,1.062,9,88.52,37.46,68.79,58.73,Water Management,258.87
+2019,India,Maharashtra,Rice,31.48,927.87,0.81,3.62,3,98.41,14.62,17.16,72.46,Organic Farming,656.87
+2002,India,Tamil Nadu,Corn,5.94,371.87,29.64,2.565,2,64.04,17.24,6.41,77.46,Organic Farming,921.74
+1990,India,West Bengal,Wheat,26.72,1630.15,22.54,1.152,1,35,1.37,2.62,42.89,Organic Farming,295.24
+1991,India,Tamil Nadu,Vegetables,23.64,1385.82,22.19,2.205,5,45.74,44.06,19.55,54.15,No Adaptation,701.88
+1998,India,West Bengal,Soybeans,31.21,2932.19,27.33,2.754,9,65.32,49.85,64.42,55.41,Water Management,862.91
+2019,India,West Bengal,Fruits,31.25,1003.01,18.26,2.043,2,24.86,21.48,32.8,55.11,Organic Farming,478.33
+1998,India,Tamil Nadu,Cotton,23.28,2118.05,3.33,2.82,3,13.16,3.07,35.22,44.14,No Adaptation,1097.09
+1996,India,West Bengal,Barley,15.63,2219.75,4.84,3.56,0,35.81,3.52,46.27,54.21,Crop Rotation,1771.36
+2020,India,Tamil Nadu,Wheat,0.71,2496.96,8.08,2.4,6,41.04,47.94,18.86,88.93,No Adaptation,997.4
+2014,India,Punjab,Barley,-0.91,872.85,10.18,0.71,10,55.49,7.82,85.91,34.21,Crop Rotation,158.06
+1995,India,Punjab,Barley,30.42,2754.27,17.76,1.557,3,21.53,0.39,23.31,54.76,Organic Farming,463.87
+1990,India,West Bengal,Cotton,15.74,1928.01,17.4,2.448,0,51.18,22.82,62.05,76.31,Crop Rotation,1072.92
+2006,India,West Bengal,Cotton,26.12,1621.95,9.11,3.7,3,79.07,5.5,9.5,32.23,Water Management,568.39
+1998,India,Maharashtra,Wheat,-4.68,2666.98,23.06,1.62,7,27.45,21.39,22.11,85.97,Organic Farming,543.92
+1990,India,Punjab,Sugarcane,0.79,1972.87,14.66,2.25,3,82.7,9.81,83.32,50.88,No Adaptation,701.78
+2005,India,Punjab,Cotton,3.98,594.1,28.32,2.412,1,30.6,31.88,5.67,80.17,Organic Farming,603.42
+2012,India,Maharashtra,Barley,18.53,1176.45,13.17,3.47,6,69.28,17.96,85.95,89.13,No Adaptation,916.58
+2006,India,Maharashtra,Coffee,19.82,1852.81,29.39,4.401,7,57.92,24.28,85.89,62.57,Crop Rotation,515.38
+2000,India,Punjab,Sugarcane,7.05,2139.94,29.87,1.62,5,23.99,13.19,59.96,32.95,Water Management,777.4
+1999,India,Maharashtra,Soybeans,12.87,462.3,0.78,3.636,1,97.14,2.32,31.31,54.59,Organic Farming,549.95
+2005,India,Maharashtra,Wheat,22.47,759.4,8.39,3.32,3,64.31,4.08,51.64,81.13,Crop Rotation,488.23
+2016,India,Tamil Nadu,Vegetables,29.83,2065.62,0.62,1.96,7,23.28,26.9,71.62,55.75,Crop Rotation,632.55
+1995,India,Maharashtra,Sugarcane,11.83,786.06,2.41,2.27,8,76.47,11.6,16.92,73.71,Drought-resistant Crops,784.5
+2001,India,West Bengal,Cotton,23.34,383.62,19.02,1.188,10,92.84,33.14,4.8,70.81,Crop Rotation,244.07
+2022,India,Maharashtra,Soybeans,24.45,2793.27,13.26,3.55,0,92.74,45.68,13.31,75.87,Organic Farming,500.87
+2007,India,Tamil Nadu,Corn,30.79,2848.05,22.91,2.124,10,16.79,32.52,88.31,81.65,No Adaptation,453.09
+2009,India,West Bengal,Sugarcane,9.4,2933.25,8.05,2.25,1,71.18,10.65,75.71,54.44,No Adaptation,443.35
+2001,India,Tamil Nadu,Vegetables,3.41,2349.19,18.95,1.431,6,36.02,30.07,73.95,68.44,No Adaptation,417.85
+1999,India,Maharashtra,Vegetables,6.78,1717.65,19.76,1.944,0,95.67,20.59,63.4,86.62,No Adaptation,969.27
+1991,India,Maharashtra,Barley,10.84,2285.89,28.31,2.619,1,58.27,44.07,31.66,78.77,Drought-resistant Crops,870.1
+2014,India,Tamil Nadu,Coffee,30.13,2259.49,0.53,2.9,10,13.38,33.15,92.52,49.36,Organic Farming,494.8
+1998,India,Tamil Nadu,Cotton,13.34,2335.32,12.81,2.66,0,15.29,37.6,26.33,70.41,Organic Farming,1199.78
+2024,India,Maharashtra,Barley,30.16,1099.39,18.44,2.142,0,17.98,19.21,11.99,75.2,Crop Rotation,343.85
+2017,India,Punjab,Cotton,4.26,1829.43,26.99,2.331,4,42.92,47.27,82.3,53.15,Crop Rotation,268.9
+2000,India,Tamil Nadu,Coffee,1.55,1964.44,18.9,0.603,0,88.81,26.08,53.28,47.52,Organic Farming,71.53
+2023,India,West Bengal,Soybeans,16.59,2941.18,3.41,3.5,5,80.8,4.62,62.86,89.86,Organic Farming,1350.56
+2021,India,Maharashtra,Rice,21.19,2391.71,29.56,0.747,3,75.26,41.98,40.19,56.54,No Adaptation,270.4
+2014,India,Punjab,Soybeans,7.83,1099.19,19.22,1.611,3,30.34,48.5,96.78,93.7,Organic Farming,503.24
+2013,India,Punjab,Coffee,8.68,2508.71,14.44,1.96,3,71.52,37.89,88.11,96.39,No Adaptation,400.79
+2005,India,Maharashtra,Sugarcane,25.45,1752.08,13.27,1,7,38.72,31.01,68.66,81.81,Drought-resistant Crops,216.73
+2008,India,West Bengal,Coffee,24.31,1472.48,5.75,2.23,0,64.15,20.7,38.22,95.42,No Adaptation,1041.87
+2019,India,Tamil Nadu,Fruits,-2.57,500.06,7.03,2.99,5,23.69,1.86,65.55,44.7,Organic Farming,370.97
+2019,India,Punjab,Wheat,-0.87,2760.2,16.42,0.531,1,52.96,36.69,30.7,52.73,Crop Rotation,254.61
+2015,India,Punjab,Rice,-3.6,2151.2,13.28,1.84,0,20.65,23.69,93.45,35.79,Water Management,545.4
+1990,India,Tamil Nadu,Vegetables,25.49,1512.68,0.54,1.08,5,66.52,7.81,2.9,53.47,Water Management,298.01
+2010,India,West Bengal,Rice,12.92,2525.69,21.94,3.267,4,42.57,3.33,13.04,53.23,Organic Farming,650.07
+1992,India,Maharashtra,Wheat,0.55,2277.86,25.22,1.692,4,25.6,45.44,53.56,45.06,No Adaptation,656.75
+2009,India,Tamil Nadu,Soybeans,1.89,437.55,7.3,2.277,9,43.06,39.21,72.82,76.99,No Adaptation,431.31
+2019,India,West Bengal,Sugarcane,4.47,1289.82,4.22,1.73,6,25.43,37.41,10.46,74.91,Organic Farming,864.42
+2008,India,Tamil Nadu,Soybeans,3.55,2611.47,25.62,1.98,9,55.49,6.14,13.34,57.08,Water Management,755.39
+2002,India,Tamil Nadu,Vegetables,20.42,2644.02,11.67,3.65,4,69.96,37.31,41.35,96.14,Drought-resistant Crops,1513.03
+2018,India,Maharashtra,Corn,32.08,2679.77,28.05,2.052,9,64.47,45.44,2.07,33.8,Water Management,321.7
+2019,India,Punjab,Fruits,18.33,984.19,22.08,3.33,9,11.13,19.24,92.59,33.67,No Adaptation,1413.72
+2020,India,Tamil Nadu,Sugarcane,27.63,1201.23,6.12,1.11,7,88.52,36.49,47.21,71.17,Drought-resistant Crops,482.06
+2001,India,West Bengal,Vegetables,27.11,2456.31,26.16,1.8,7,26.82,14.07,4.31,54.33,Water Management,402.39
+2011,India,Punjab,Rice,1.49,2771.8,27.14,1.44,7,98.42,23.63,92.91,64.18,Organic Farming,330.28
+2005,India,Punjab,Wheat,20.43,2935.13,19.72,3.177,7,94.43,15.05,0.65,94.69,No Adaptation,1233.99
+2016,India,West Bengal,Corn,22.79,764.04,7.29,1.28,6,79.64,44.5,35.5,66.45,Crop Rotation,196.88
+2000,India,West Bengal,Cotton,4.59,798.78,6.6,1.48,2,61.09,42.38,50.64,84.11,No Adaptation,532.56
+1990,India,Tamil Nadu,Sugarcane,-2.29,2018.84,7.65,2.32,7,39.39,44.08,5.27,95.71,Crop Rotation,422.99
+2001,India,Maharashtra,Barley,31.95,712.14,8.89,1.41,3,23.91,12.49,35.98,72.26,Water Management,406.28
+2008,India,West Bengal,Corn,-0.53,2464.04,9.01,0.53,4,14.6,30.18,80.57,61.59,Drought-resistant Crops,110.18
+1990,India,Punjab,Vegetables,14.53,983.96,21.45,2.394,2,75.39,42.01,34.17,89.83,Organic Farming,726.36
+2022,India,Tamil Nadu,Rice,30.93,1854.35,16,1.665,4,52.91,14.34,8.22,44.69,No Adaptation,677
+2004,India,Tamil Nadu,Cotton,30.05,1196.52,23.34,2.232,5,87.23,27.67,12.17,74.81,No Adaptation,1009.04
+2015,India,Maharashtra,Coffee,22.51,752.97,2.22,3.08,1,55.57,7.21,97,67.96,Crop Rotation,1309.4
+2017,India,Punjab,Sugarcane,-4.08,673.41,3.98,0.95,9,76.06,33.19,88.57,75.49,Water Management,346.48
+2016,India,Tamil Nadu,Coffee,14.49,2937.51,1.86,1.84,9,34.83,2.19,79.08,98.01,Organic Farming,621.39
+2003,India,Maharashtra,Sugarcane,3.68,2185.4,3.82,2.31,7,73.01,8.76,56.22,32.69,Water Management,1099.19
+2011,India,Maharashtra,Cotton,6.36,2238.25,23.09,0.99,5,66.78,35.63,59.11,73.96,Organic Farming,309.44
+1999,India,Punjab,Barley,21.03,2114.27,4.47,2.84,4,85.91,48.25,31.54,77.9,No Adaptation,761.14
+2001,India,Maharashtra,Sugarcane,7.91,260.28,3.11,2.646,7,40.03,18.15,88.97,58.41,Drought-resistant Crops,762.08
+2006,India,Tamil Nadu,Soybeans,11.97,2357.77,12.71,3.77,4,12.49,9.24,26.06,62.13,No Adaptation,1240.46
+1991,India,Punjab,Sugarcane,31.13,1554.5,3.04,3.75,5,57.83,3.13,74.68,57.19,Organic Farming,1556.95
+2014,India,Maharashtra,Fruits,-2.17,1997.78,10.98,2.76,8,98.1,31.29,16.63,35.51,Organic Farming,724.68
+2020,India,West Bengal,Cotton,-3.35,2279.53,19.34,0.639,4,83.71,18.7,42.19,70.04,Organic Farming,83.73
+2017,India,Tamil Nadu,Fruits,6.41,2159.7,16.12,1.548,2,90.34,25.79,86.95,52.52,Water Management,650.56
+2002,India,Punjab,Coffee,12.31,1925.28,8.08,1.51,8,67.07,19.06,42.32,40.05,No Adaptation,485.16
+1996,India,Maharashtra,Fruits,32.39,212.45,22.7,1.179,10,78.69,10.03,11.35,48.2,Crop Rotation,331.21
+1996,India,Tamil Nadu,Wheat,14.14,1483.99,20.02,2.034,2,46.42,33.91,37.74,68.26,Water Management,672.45
+1994,India,Punjab,Sugarcane,6.23,2781.64,27.94,0.936,2,81.33,29.77,24.7,66.81,Crop Rotation,346.89
+2006,India,West Bengal,Corn,11.56,2096.57,23.97,1.656,8,21.33,43.06,15.3,36.97,Organic Farming,573.04
+2023,India,Punjab,Coffee,5.77,503.36,25.63,1.161,4,76.59,1.06,68.53,53.85,Water Management,307.81
+2022,India,Punjab,Cotton,30.35,2306.03,13.53,2.55,1,65.05,16.1,38.12,35.07,Drought-resistant Crops,1166.64
+2008,India,West Bengal,Fruits,25.69,2746.63,14.51,3.73,8,76.14,28.03,50.2,99.18,Crop Rotation,1824.24
+2011,India,West Bengal,Wheat,30.03,1345.57,6.83,3.42,4,81.47,36.19,13.35,41.11,Water Management,662.18
+2014,India,Tamil Nadu,Vegetables,5.69,2999.1,2.84,1.05,0,42.42,34.65,57.78,30.75,Water Management,196.77
+2009,India,Tamil Nadu,Rice,11.63,1890.54,26.14,2.025,3,19.75,46.01,18.13,88.95,Organic Farming,459.92
+1996,India,Maharashtra,Coffee,28.78,1456.47,15.17,1.656,10,57.46,40.74,18.84,59,Water Management,553.11
+2013,India,Maharashtra,Rice,18.36,2375.26,11.63,4.51,4,43.01,17.19,54.07,73.91,Crop Rotation,2057.7
+2021,India,Maharashtra,Wheat,8.43,1758.74,17.24,1.017,8,79.06,30.18,93.14,35.17,Crop Rotation,168.92
+2021,India,Tamil Nadu,Sugarcane,-4.21,1004.74,6.96,2.82,6,90.81,30.49,91.78,54.14,Crop Rotation,472.91
+1991,India,Punjab,Vegetables,7.38,878.38,17.03,1.242,1,93.61,48.18,41.93,40.45,No Adaptation,619.75
+2022,India,Maharashtra,Coffee,19.75,1968.1,21.66,3.861,3,47.18,41.31,98.91,36.25,Water Management,1822.52
+2010,India,Punjab,Barley,-3.72,521.38,15.16,1.557,1,15.82,30.3,22.06,97.38,No Adaptation,688.94
+2017,India,West Bengal,Vegetables,23.98,2151.57,5.65,0.92,9,21.71,33.1,95.98,40.4,Organic Farming,386.87
+1990,India,West Bengal,Cotton,-2.17,1026.42,0.72,1.77,5,98.48,5.78,90.66,68.9,Drought-resistant Crops,285.19
+2016,India,Punjab,Soybeans,23.09,1734.32,13.5,1.72,0,22.25,43.8,94.94,69.44,Drought-resistant Crops,839.45
+2011,India,West Bengal,Fruits,7.08,957.61,17.67,1.332,0,43.9,13.83,93.89,95.93,Water Management,375.24
+2021,India,West Bengal,Fruits,32.13,1046.42,4.79,3.36,7,66.84,48.49,9.26,73.92,Water Management,1324.42
+1999,India,West Bengal,Cotton,25.05,1601.04,29.73,0.963,10,34.86,27.62,44.98,91.7,Organic Farming,111.69
+1999,India,West Bengal,Vegetables,-4.21,1990.1,19.26,2.214,1,96.3,18.68,93.99,37.9,Drought-resistant Crops,612.83
+2023,India,Tamil Nadu,Fruits,33.61,1333.05,17.85,1.926,5,58.47,34.51,12.54,73.14,Crop Rotation,383.66
+1992,India,Tamil Nadu,Coffee,22.73,2618.94,27.54,3.402,9,26.8,33.51,26.81,48.73,Drought-resistant Crops,678.68
+1991,India,West Bengal,Vegetables,3.98,1841.24,23.33,2.367,9,49.16,34.3,73.16,44.22,Water Management,500.78
+1999,India,Punjab,Coffee,20.01,1122.79,4.8,3.02,4,26.84,13.14,30.45,54.6,Crop Rotation,1336.45
+1999,India,Punjab,Cotton,9.77,948.68,15.17,2.187,6,10.96,1.62,66.54,80.75,Water Management,289.95
+2020,India,Tamil Nadu,Soybeans,25.15,1786.57,28.68,3.141,8,74.02,6,74.43,31.6,Organic Farming,446.08
+2001,India,West Bengal,Cotton,25.27,2957.04,23.41,1.503,5,29.1,12.98,24.5,88.87,Water Management,654.6
+2020,India,West Bengal,Rice,20.14,1555.09,17.32,3.15,10,47.36,45.14,71.84,63.49,Drought-resistant Crops,528.38
+2011,India,Maharashtra,Cotton,2.74,2839.58,22.03,1.242,2,29.73,20.23,10.18,40.42,Organic Farming,370.29
+1990,India,Tamil Nadu,Wheat,-4.1,1089.78,3.23,1.16,7,61.47,32.23,47.83,65.68,Water Management,316.4
+2015,India,Punjab,Vegetables,20.99,613.79,12.81,1.56,10,41.62,26.31,5.26,72.08,No Adaptation,702.64
+2024,India,Punjab,Vegetables,9.54,1152.78,17.48,2.529,5,14.22,19.53,47.58,36.96,Organic Farming,732.08
+2002,India,West Bengal,Coffee,22.52,2360.83,17.09,2.862,1,43.74,32.3,15.59,64.23,Crop Rotation,453.29
+1999,India,West Bengal,Rice,8.65,1507.57,19.21,0.837,1,78.47,15.17,83.65,30.48,Organic Farming,256.15
+2011,India,West Bengal,Barley,10.05,1849.44,5.16,1.9,0,91.14,6.81,58.49,47.34,Water Management,872.76
+2003,India,Tamil Nadu,Wheat,15.96,1436.95,17.8,4.068,5,15.46,46.39,77.64,36.63,Water Management,827.92
+2024,India,Maharashtra,Fruits,21.57,2413.08,10.61,3.42,2,66.26,16.65,29.2,90.26,No Adaptation,475.64
+2005,India,Punjab,Sugarcane,33.04,2347.67,10.29,2.29,9,60.89,48.64,64.08,58.7,Organic Farming,334.4
+2010,India,Maharashtra,Fruits,22.59,2208.8,7.68,1.14,3,61.02,28.26,71.29,51.11,Crop Rotation,305.84
+2010,India,West Bengal,Rice,-2.82,747.44,24.34,0.99,4,84.13,41.47,27.52,67.47,No Adaptation,270.76
+2020,India,West Bengal,Sugarcane,15.76,320.16,9.64,4.464,0,65.98,6.83,17.44,62.7,No Adaptation,1462.62
+2001,India,Punjab,Vegetables,19.45,2843.45,20.03,2.007,1,10.95,17.66,55.24,64.56,Drought-resistant Crops,933.97
+1997,India,West Bengal,Sugarcane,10.21,2992.45,5.83,1.61,2,34.23,32.88,73.61,76.57,Water Management,694.43
+2020,India,West Bengal,Sugarcane,3.41,1000.3,4.66,1.67,2,78.12,21.4,1.03,72.02,Organic Farming,814.73
+1991,India,Maharashtra,Coffee,10.28,753,9.82,2,0,21.7,8.62,94.65,36,No Adaptation,749.86
+2002,India,Maharashtra,Coffee,14.46,1654.67,24.42,3.375,4,73.49,16.14,25.71,81.04,Drought-resistant Crops,1046.85
+2023,India,Maharashtra,Barley,22.66,2307.34,14.1,2.75,5,18.76,26.84,32.7,58.13,Drought-resistant Crops,769.69
+1990,India,West Bengal,Sugarcane,-2.03,481.25,10.72,2.502,4,59.07,38.95,88.34,82.96,Water Management,1059.3
+2004,India,Tamil Nadu,Soybeans,14.86,2104.05,9.94,2.4,4,98.04,43.71,30.58,53.56,No Adaptation,303.06
+2019,India,Maharashtra,Soybeans,0.51,391.63,20.67,2.133,4,73.34,36.82,12.74,52.15,Organic Farming,791.69
+2000,India,Maharashtra,Coffee,11.7,1745.21,15.2,1.701,9,31.45,40.27,41.61,97.99,Crop Rotation,793.74
+1996,India,Punjab,Cotton,22.43,2106.88,9.77,3.72,10,14.77,9.08,74.93,50.81,Water Management,1743.41
+2015,India,Punjab,Vegetables,6.21,1791.52,9.83,0.77,5,66.7,18.98,22.49,66.05,No Adaptation,197.03
+2021,India,West Bengal,Vegetables,11.62,938.62,3.52,3.73,9,43.75,22.3,61.64,99.97,Water Management,457.38
+2014,India,Tamil Nadu,Corn,18.45,2356.78,10.34,4.45,6,43.82,36.84,93.03,53.25,Drought-resistant Crops,1768.29
+1992,India,Maharashtra,Vegetables,7.74,1647.6,21.42,0.549,6,50.08,48.45,62.96,92.81,Organic Farming,167.2
+1991,India,Tamil Nadu,Cotton,-4.7,564.04,24.68,2.313,9,49.83,2.72,51.49,47.72,No Adaptation,976.28
+2003,India,Tamil Nadu,Coffee,21.4,2162.47,2.63,2.53,4,25.77,12.03,21.9,69.06,Water Management,299.89
+2021,India,Maharashtra,Cotton,14.74,1525.28,11.92,1.57,1,69.21,36.72,39.36,47.53,Water Management,756.96
+2004,India,West Bengal,Barley,2.76,832.53,4.09,2.22,4,50.13,21.23,85.65,96.41,Crop Rotation,521.22
+2016,India,Maharashtra,Wheat,17.25,1327.06,6.51,2.04,8,78.14,10.6,43.58,45.47,Organic Farming,792.52
+2005,India,Tamil Nadu,Soybeans,-3.55,1136.49,22.89,2.421,10,83.46,0.92,80.21,53.7,No Adaptation,1167.46
+1994,India,Punjab,Soybeans,33.55,2451.12,0.99,2.85,2,33.84,42.81,59.22,60.65,Crop Rotation,1264.84
+2011,India,Punjab,Coffee,3.2,1818.56,29.7,1.962,1,86.7,27.55,39.59,72.45,Drought-resistant Crops,451.33
+2024,India,West Bengal,Wheat,1.05,2795.35,17.4,0.594,7,14.21,10.79,61.13,82.58,Water Management,199.09
+2024,India,Tamil Nadu,Rice,8.68,2909.25,9.59,0.61,1,83.69,28.6,29.99,94.6,Drought-resistant Crops,174.44
+2000,India,West Bengal,Fruits,11.95,2032.71,17.78,2.07,5,44.13,42.48,25.94,51.83,No Adaptation,479.79
+1991,India,West Bengal,Barley,0.6,561.64,21.7,1.782,5,82.51,39.28,73.39,79.2,No Adaptation,382.38
+2007,India,Maharashtra,Vegetables,14.81,2336.29,23.85,2.223,3,91.98,37.21,47.2,85.77,Organic Farming,291.91
+2001,India,Maharashtra,Sugarcane,30.71,2606.49,15.65,1.494,1,22.53,0.63,85.03,60.26,Organic Farming,151.58
+2013,India,Punjab,Sugarcane,33.38,2896.7,11.71,3.12,0,15.9,42.25,16.57,83.33,Crop Rotation,397.02
+2003,India,West Bengal,Sugarcane,30.13,2786.51,16.23,1.449,2,32.49,21.65,45.01,69.4,Crop Rotation,686.24
+2003,India,Tamil Nadu,Rice,22.4,2085.17,29.79,1.071,10,31.35,37.48,68.18,91.81,Crop Rotation,442.96
+2016,India,Punjab,Rice,2.21,2451.72,17.68,2.574,4,17.09,8.48,78.19,67.48,Drought-resistant Crops,761.04
+2009,India,Tamil Nadu,Vegetables,-3.08,734.27,5,0.94,8,88.8,19.13,6.88,53.34,No Adaptation,380.5
+2008,India,West Bengal,Rice,17.32,979.87,29.23,3.177,1,89.46,42.24,84.62,87.95,Organic Farming,1068.38
+2004,India,Maharashtra,Corn,12.86,2991.49,16.13,3.564,10,31.85,23.57,2.13,46.54,Water Management,741.68
+1992,India,Maharashtra,Wheat,-3.85,371.5,6.98,1.143,0,78.28,21.59,86.8,49.27,Organic Farming,384.89
+2018,India,West Bengal,Vegetables,25.52,690.36,8.93,2.86,2,42.4,14.36,56.94,64.58,No Adaptation,1245.57
+2019,India,Maharashtra,Soybeans,20.14,2071.12,16.38,2.448,10,77.35,13.17,72.48,40.46,Organic Farming,994.96
+2023,India,Punjab,Wheat,18.48,1332.29,28.97,2.979,9,67.74,41.11,68.96,99.6,Crop Rotation,1281.69
+2016,India,Maharashtra,Rice,9.94,2523.74,27.96,1.404,3,61.59,36.16,44.63,46.29,No Adaptation,664.59
+2011,India,Maharashtra,Rice,0.37,1108.38,18.35,2.538,10,34.75,27.27,62.75,34.54,Drought-resistant Crops,825.66
+2008,India,Tamil Nadu,Wheat,19.71,1328.36,18.32,2.772,6,61.6,12.58,8.92,56.95,Crop Rotation,961.81
+2001,India,Tamil Nadu,Sugarcane,0.93,1412.53,29.04,2.151,10,44.38,37.74,47.46,45.05,Drought-resistant Crops,630.89
+1992,India,Maharashtra,Sugarcane,-1.65,2119.01,19.29,0.945,8,57.89,45.34,88.88,78.26,Water Management,358.11
+2023,India,Tamil Nadu,Rice,0.17,301.87,7.94,0.702,4,72.94,44.2,43.78,77.89,Organic Farming,139.59
+1996,India,West Bengal,Soybeans,6.76,1071.29,7.71,2.77,9,81.89,11.8,39.64,39.77,Organic Farming,1079.72
+2006,India,Maharashtra,Fruits,18.08,1309.15,1.47,4.6,8,78.51,17.96,45.35,46.26,Water Management,873.2
+2021,India,West Bengal,Vegetables,25.78,2741.6,17.01,1.449,7,12.06,20.33,1.86,35.62,Organic Farming,186.06
+1998,India,Tamil Nadu,Cotton,26.31,1162.21,23.38,1.143,9,58.44,38.59,64.3,71.82,Crop Rotation,268.14
+2008,India,Punjab,Soybeans,11.04,2777.49,13.34,2.81,4,15.34,30.77,63.35,76.66,Water Management,552.1
+1998,India,West Bengal,Rice,26.32,2251.4,29.07,2.457,7,62.37,38.1,92.63,85.66,No Adaptation,1012.31
+2008,India,Maharashtra,Corn,13.93,1236.69,17.43,3.843,1,14.03,11.82,31.17,76.24,No Adaptation,1568.51
+2003,India,Tamil Nadu,Wheat,2.87,1561.46,16.13,2.502,6,25.3,39.81,33.09,75.21,Drought-resistant Crops,1145.89
+2000,India,Tamil Nadu,Vegetables,34.89,1198.24,2.92,1.88,8,48.11,12.94,93.59,87.06,Organic Farming,917.86
+2013,India,Maharashtra,Wheat,6.21,1523.88,13.03,1.96,1,11.84,13.06,26.52,96.36,Water Management,334.85
+2012,India,West Bengal,Soybeans,19.72,1258.02,27.1,1.539,4,16.98,43.53,18.64,73.15,Organic Farming,561.09
+2019,India,Tamil Nadu,Corn,3.74,2741.3,22.13,0.945,6,42.27,16.53,28.72,73.99,No Adaptation,427.31
+2012,India,Tamil Nadu,Rice,0.78,312.63,6.25,0.783,1,71.8,42,10.07,36.58,Organic Farming,105.25
+2003,India,Tamil Nadu,Corn,7.07,2796.31,4.66,1.15,7,98.77,36.23,87.17,76.35,No Adaptation,448.78
+2009,India,Punjab,Vegetables,4.62,2602.19,5.69,1.54,4,74.96,21.49,24.64,86.3,Water Management,466.59
+1997,India,Maharashtra,Fruits,5.91,1852.47,27.6,2.277,3,72.59,26.01,4.16,84.62,Crop Rotation,629.64
+2020,India,Maharashtra,Cotton,1.1,1755.59,4.67,1.36,6,45.58,4.68,58.54,68.65,Organic Farming,214.32
+2000,India,Punjab,Vegetables,-1.53,213.48,28.29,1.053,8,96.2,8.23,8.59,48.74,Drought-resistant Crops,452.31
+2022,India,Maharashtra,Soybeans,25.26,2136.94,10.81,1.67,10,63.44,21.72,37.96,32.42,Crop Rotation,624.59
+1999,India,West Bengal,Fruits,32.66,1401.93,28.74,2.052,2,53.57,6.56,1.97,98.55,No Adaptation,625.6
+2013,India,West Bengal,Corn,22.91,315.52,14.49,1.503,2,81.21,41.74,88.22,35.74,No Adaptation,553.02
+2023,India,Maharashtra,Vegetables,-4.45,1593.93,1.96,0.64,7,72.77,33.05,88.49,54.13,No Adaptation,151.28
+1993,India,Tamil Nadu,Corn,33.42,2961.61,7.72,1.67,10,92.22,17.32,54.35,72.54,Water Management,319.04
+2014,India,West Bengal,Barley,8.55,1950.8,5.79,1.04,1,74.87,7.18,15.88,35.23,No Adaptation,358.4
+1991,India,Tamil Nadu,Fruits,28.51,2129.97,13.25,2.73,6,88.36,37.19,36.14,31.83,No Adaptation,1218.57
+1997,India,West Bengal,Barley,25.25,1499.45,21.4,2.853,4,94.94,20.97,55.11,86.83,Water Management,1004.99
+1993,India,Tamil Nadu,Rice,14.08,917.33,14.45,4.31,3,85.07,14.57,52.51,62.15,Crop Rotation,639.69
+2024,India,Maharashtra,Coffee,16.64,2417.34,4.95,2.63,1,72.19,14.87,73.62,40.24,No Adaptation,962.36
+2021,India,Punjab,Sugarcane,0.73,296,18.38,2.07,8,19.24,40.86,61.03,63.03,Drought-resistant Crops,230.02
+1990,India,West Bengal,Wheat,34.38,648.6,14.95,0.81,10,41.24,16.37,68.82,33.62,Crop Rotation,390.24
+2012,India,Maharashtra,Corn,22.83,663.86,15.97,0.801,7,93.1,20.49,98.42,87.52,Water Management,182.57
+1991,India,West Bengal,Sugarcane,15.92,1281.89,8.58,4.45,10,72.76,26.22,41.33,47.28,Drought-resistant Crops,1069.74
+2000,India,Maharashtra,Soybeans,34.66,2831.7,12.44,2.12,5,83.45,15.83,14.65,65.58,Organic Farming,504.38
+2018,India,Tamil Nadu,Cotton,0.53,2143.88,28.84,2.7,9,87.59,21.96,91.24,72.55,Organic Farming,1135.51
+2011,India,West Bengal,Corn,13.43,820.32,21.56,1.377,6,67.25,6.4,90.19,79.99,Crop Rotation,207.75
+2006,India,West Bengal,Barley,30.72,2708.24,12.61,3.99,7,22.36,22.89,0.66,67.55,Drought-resistant Crops,1105.13
+2018,India,West Bengal,Wheat,3.26,2902.16,27.81,2.052,2,30.31,21.9,17.61,35.06,Water Management,634.54
+2010,India,West Bengal,Cotton,5.33,1338.84,20.96,1.377,1,77.04,17.85,94.66,39.59,Water Management,583.86
+2007,India,Maharashtra,Wheat,13.56,2445.64,1.55,3.73,10,64.46,9.51,6.67,68.1,Drought-resistant Crops,1300.02
+1992,India,West Bengal,Vegetables,17,2511.18,26.41,4.419,3,94.43,22.51,87.1,91.62,Drought-resistant Crops,1170.68
+1995,India,Punjab,Soybeans,-4.75,2987.11,9.81,2.51,6,76.71,39.87,17.91,52.72,Crop Rotation,515.68
+2001,India,West Bengal,Soybeans,32.89,1073.67,15.56,3.33,9,86.02,9.79,97.56,87.77,Organic Farming,444.39
+1991,India,Punjab,Barley,-2.83,1598.35,15.26,0.909,5,23.06,7.93,44.44,90.68,Crop Rotation,114.51
+1997,India,West Bengal,Coffee,28.19,2909.31,22.59,2.097,6,86.8,18.33,75.56,37.97,Organic Farming,940.36
+1996,India,Maharashtra,Sugarcane,-3.26,1177.27,14.45,1.15,4,30.37,28.55,24.63,89.69,Drought-resistant Crops,386.83
+2008,India,Tamil Nadu,Vegetables,16.92,1684.4,27.44,3.735,4,28.66,22.71,50.15,70,Water Management,1348.44
+1999,India,West Bengal,Barley,27.04,524.65,28.07,1.881,9,45.61,17.36,31.43,43.36,Crop Rotation,881.99
+2015,India,Punjab,Fruits,12.31,2557.3,18.97,3.096,8,72.38,10.86,36.95,57.41,No Adaptation,744.52
+1998,India,Punjab,Sugarcane,7.95,2044.58,14.66,1.2,7,94.45,21.44,23.06,88.37,Organic Farming,363.31
+2014,India,Maharashtra,Cotton,11.3,2152.11,12.55,2.86,5,24.51,6.79,95.99,42.14,Drought-resistant Crops,998.04
+1990,India,Tamil Nadu,Vegetables,25.36,1394.83,21.87,3.087,2,49.92,9.47,97.23,67.64,No Adaptation,360.61
+1998,India,Tamil Nadu,Rice,19.01,1282.29,25.18,2.052,4,97.19,4.02,93.85,58.95,Crop Rotation,490.45
+2009,India,Punjab,Barley,30.2,237.79,15.9,2.484,5,65.37,12.07,94.18,54.49,Water Management,611.19
+1997,India,Maharashtra,Wheat,25.12,1739.69,29.73,1.197,6,98.87,32.51,7.08,94.66,Crop Rotation,162.75
+2003,India,Punjab,Fruits,-3.09,514.8,13.48,2.78,5,50.62,14.82,12.75,69.92,Water Management,557.36
+1999,India,Punjab,Coffee,16.69,737.41,23.46,4.248,1,59.98,27.44,51.8,89.66,No Adaptation,1852.07
